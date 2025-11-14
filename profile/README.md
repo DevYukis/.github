@@ -130,6 +130,12 @@
 
 <br>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/gugs881/gugs881/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" width="100%" />
+</div>
+
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
