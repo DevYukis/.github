@@ -468,19 +468,19 @@ Show support by starring repositories you find useful
 </td>
 <td align="center" width="25%">
 
-### ?? Contribute
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="20" alt="Code" /> Contribute
 Submit PRs and help improve our projects
 
 </td>
 <td align="center" width="25%">
 
-### ?? Share Ideas
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-lightning.svg" width="20" alt="Lightning" /> Share Ideas
 Open issues with suggestions and feedback
 
 </td>
 <td align="center" width="25%">
 
-### ?? Spread the Word
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Spread the Word
 Share our work with your network
 
 </td>
@@ -545,19 +545,19 @@ Looking for expert development services? We offer:
 <tr>
 <td width="33%" align="center">
 
-### ?? Custom Development
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="20" alt="Code" /> Custom Development
 Full-stack web and mobile applications tailored to your needs
 
 </td>
 <td width="33%" align="center">
 
-### ?? Cloud Solutions
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="20" alt="Target" /> Cloud Solutions
 Architecture design, migration, and optimization
 
 </td>
 <td width="34%" align="center">
 
-### ?? AI Integration
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-eye.svg" width="20" alt="Eye" /> AI Integration
 Machine learning models and intelligent systems
 
 </td>
@@ -565,19 +565,19 @@ Machine learning models and intelligent systems
 <tr>
 <td width="33%" align="center">
 
-### ?? Consulting
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="20" alt="Users" /> Consulting
 Technical guidance and best practices
 
 </td>
 <td width="33%" align="center">
 
-### ?? Code Review
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> Code Review
 Quality assurance and optimization
 
 </td>
 <td width="34%" align="center">
 
-### ?? Training
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Training
 Workshops and technical mentoring
 
 </td>
@@ -587,7 +587,7 @@ Workshops and technical mentoring
 <br>
 
 <a href="mailto:nickschunck17@gmail.com">
-  <img src="https://img.shields.io/badge/??_Get_In_Touch-Let's_Build_Something_Amazing-a855f7?style=for-the-badge" alt="Contact Us" />
+  <img src="https://img.shields.io/badge/📧_Get_In_Touch-Let's_Build_Something_Amazing-a855f7?style=for-the-badge" alt="Contact Us" />
 </a>
 
 </div>
@@ -601,7 +601,7 @@ Workshops and technical mentoring
 
 <div align="center">
 
-## ? Our Impact
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="26" alt="Fire" /> Our Impact
 
 </div>
 
@@ -642,12 +642,12 @@ Workshops and technical mentoring
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/Made_with-??_and_?-a855f7?style=flat-square" alt="Made with love" />
+  <img src="https://img.shields.io/badge/Made_with-💜_and_☕-a855f7?style=flat-square" alt="Made with love" />
   <img src="https://img.shields.io/badge/2025-DevYukis-a855f7?style=flat-square" alt="2025" />
   <img src="https://img.shields.io/badge/Open_Source-Forever-a855f7?style=flat-square" alt="Open Source" />
 </p>
 
-**? 2025 DevYukis ? Transforming Ideas Into Digital Reality** ??
+**© 2025 DevYukis • Transforming Ideas Into Digital Reality** ✨
 
 </div>
 
