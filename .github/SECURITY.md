@@ -1,4 +1,4 @@
-# Security Policy
+﻿# Security Policy
 
 ## 🔒 Reportando uma Vulnerabilidade de Segurança
 

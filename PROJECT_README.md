@@ -1,4 +1,4 @@
-# 🎨 GITNPPP - GitHub Profile Perfection Package
+﻿# 🎨 GITNPPP - GitHub Profile Perfection Package
 
 <div align="center">
 
@@ -139,7 +139,7 @@ GITNPPP/
 
 2. **Clone This Template**
    ```bash
-   git clone https://github.com/EnvolvimenteH3rr/GITNPPP.git
+   git clone https://github.com/DevYukis/GITNPPP.git
    cd GITNPPP
    ```
 
@@ -158,7 +158,7 @@ GITNPPP/
 
 5. **Customize**
    - Update `README.md` with your information
-   - Replace `EnvolvimenteH3rr` with your username
+   - Replace `DevYukis` with your username
    - Modify technologies, projects, and links
    - Add your profile picture to `assets/`
 
@@ -376,8 +376,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 📧 Email: nickschunck17@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/EnvolvimenteH3rr/GITNPPP/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/EnvolvimenteH3rr/GITNPPP/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/DevYukis/GITNPPP/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/DevYukis/GITNPPP/discussions)
 
 ---
 
@@ -395,10 +395,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ and ☕ by EnvolvimenteH3rr**
+**Made with ❤️ and ☕ by DevYukis**
 
-![GitHub stars](https://img.shields.io/github/stars/EnvolvimenteH3rr/GITNPPP?style=social)
-![GitHub forks](https://img.shields.io/github/forks/EnvolvimenteH3rr/GITNPPP?style=social)
+![GitHub stars](https://img.shields.io/github/stars/DevYukis/GITNPPP?style=social)
+![GitHub forks](https://img.shields.io/github/forks/DevYukis/GITNPPP?style=social)
 
 [⬆ Back to Top](#-gitnppp---github-profile-perfection-package)
 

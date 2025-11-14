@@ -1,4 +1,4 @@
-# 🚀 Perfil GitHub Hyper Avançado
+﻿# 🚀 Perfil GitHub Hyper Avançado
 
 Este é um template completo para criar um perfil GitHub profissional e automatizado com atualizações dinâmicas!
 

@@ -1,4 +1,4 @@
-# Contributing Guide
+﻿# Contributing Guide
 
 Thank you for considering contributing! This document provides guidelines for contributing to this project.
 

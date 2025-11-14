@@ -1,4 +1,4 @@
-## 📋 Descrição
+﻿## 📋 Descrição
 
 <!-- Descreva suas mudanças em detalhes -->
 

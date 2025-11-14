@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Organization Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=200&section=header&text=EnvolvimenteH3rr&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=200&section=header&text=DevYukis&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <br>
 
@@ -14,8 +14,8 @@
 
 <!-- Profile Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=EnvolvimenteH3rr&color=a855f7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/EnvolvimenteH3rr?style=for-the-badge&logo=github&color=a855f7" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=DevYukis&color=a855f7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DevYukis?style=for-the-badge&logo=github&color=a855f7" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Focus-Innovation-a855f7?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
 </p>
 
@@ -31,7 +31,7 @@
 ## Nikolas Ribeiro
 
 <p align="center">
-  <strong>Full Stack Developer</strong> | São Paulo, Brazil
+  <strong>Full Stack Developer</strong> | S�o Paulo, Brazil
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <strong>Current Focus:</strong> JavaScript Ecosystem • React • Node.js • Cloud Architecture
+  <strong>Current Focus:</strong> JavaScript Ecosystem � React � Node.js � Cloud Architecture
 </p>
 
 <hr>
@@ -50,7 +50,7 @@
 ```typescript
 const nikolas = {
   role: "Full Stack Developer",
-  location: "São Paulo, Brazil",
+  location: "S�o Paulo, Brazil",
   code: ["JavaScript", "TypeScript", "Python", "C#", "Java"],
   technologies: {
     frontEnd: {
@@ -88,7 +88,7 @@ I believe in writing code that not only solves today's problems but is also prep
 
 <hr>
 
-## 🎯 Current Goals
+## ?? Current Goals
 
 <div align="center">
 
@@ -101,7 +101,7 @@ I believe in writing code that not only solves today's problems but is also prep
 
 <hr>
 
-## 💭 Fun Fact
+## ?? Fun Fact
 
 <div align="center">
 
@@ -118,7 +118,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <div align="center">
 
-## 🏢 What We Build
+## ?? What We Build
 
 </div>
 
@@ -126,7 +126,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 <tr>
 <td width="33%" align="center">
 
-### 🌐 Web Applications
+### ?? Web Applications
 Modern, scalable full-stack applications with cutting-edge frameworks
 
 **Tech Stack:**
@@ -138,7 +138,7 @@ Modern, scalable full-stack applications with cutting-edge frameworks
 </td>
 <td width="33%" align="center">
 
-### 🤖 AI Solutions
+### ?? AI Solutions
 Intelligent systems leveraging machine learning and neural networks
 
 **Focus Areas:**
@@ -150,7 +150,7 @@ Intelligent systems leveraging machine learning and neural networks
 </td>
 <td width="34%" align="center">
 
-### ⚙️ Developer Tools
+### ?? Developer Tools
 Productivity tools and utilities for the developer community
 
 **Categories:**
@@ -172,7 +172,7 @@ Productivity tools and utilities for the developer community
 
 <div align="center">
 
-## 🛠️ Technology Stack
+## ??? Technology Stack
 
 </div>
 
@@ -254,26 +254,26 @@ Productivity tools and utilities for the developer community
 
 <div align="center">
 
-## 🌟 Featured Repositories
+## ?? Featured Repositories
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/EnvolvimenteH3rr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnvolvimenteH3rr&repo=smart-web-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Smart Web Platform" />
+<a href="https://github.com/DevYukis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevYukis&repo=smart-web-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Smart Web Platform" />
 </a>
-<a href="https://github.com/EnvolvimenteH3rr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnvolvimenteH3rr&repo=ai-assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="AI Assistant" />
+<a href="https://github.com/DevYukis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevYukis&repo=ai-assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="AI Assistant" />
 </a>
 
 <br>
 
-<a href="https://github.com/EnvolvimenteH3rr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnvolvimenteH3rr&repo=cloud-infrastructure&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Cloud Infrastructure" />
+<a href="https://github.com/DevYukis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevYukis&repo=cloud-infrastructure&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Cloud Infrastructure" />
 </a>
-<a href="https://github.com/EnvolvimenteH3rr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnvolvimenteH3rr&repo=dev-tools&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Developer Tools" />
+<a href="https://github.com/DevYukis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevYukis&repo=dev-tools&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Developer Tools" />
 </a>
 
 </div>
@@ -287,7 +287,7 @@ Productivity tools and utilities for the developer community
 
 <div align="center">
 
-## 📊 Organization Statistics
+## ?? Organization Statistics
 
 </div>
 
@@ -296,19 +296,19 @@ Productivity tools and utilities for the developer community
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnvolvimenteH3rr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevYukis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnvolvimenteH3rr&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevYukis&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
 
 <br>
 
-### 📈 Activity & Contributions
+### ?? Activity & Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EnvolvimenteH3rr&custom_title=Organization%20Activity%20Graph&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&area_color=a855f7&hide_border=true" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevYukis&custom_title=Organization%20Activity%20Graph&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&area_color=a855f7&hide_border=true" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -321,7 +321,7 @@ Productivity tools and utilities for the developer community
 
 <div align="center">
 
-## 🤝 Join Our Community
+## ?? Join Our Community
 
 </div>
 
@@ -335,25 +335,25 @@ We believe in the power of collaboration and open source. Here's how you can get
 <tr>
 <td align="center" width="25%">
 
-### 🌟 Star Projects
+### ?? Star Projects
 Show support by starring repositories you find useful
 
 </td>
 <td align="center" width="25%">
 
-### 🔧 Contribute
+### ?? Contribute
 Submit PRs and help improve our projects
 
 </td>
 <td align="center" width="25%">
 
-### 💡 Share Ideas
+### ?? Share Ideas
 Open issues with suggestions and feedback
 
 </td>
 <td align="center" width="25%">
 
-### 📣 Spread the Word
+### ?? Spread the Word
 Share our work with your network
 
 </td>
@@ -362,9 +362,9 @@ Share our work with your network
 
 <br>
 
-### 🔗 Connect With Us
+### ?? Connect With Us
 
-<a href="https://github.com/EnvolvimenteH3rr">
+<a href="https://github.com/DevYukis">
   <img src="https://img.shields.io/badge/GitHub-Follow-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
 <a href="mailto:nickschunck17@gmail.com">
@@ -388,7 +388,7 @@ Share our work with your network
 
 <div align="center">
 
-## 📝 Latest Activity
+## ?? Latest Activity
 
 </div>
 
@@ -404,7 +404,7 @@ Share our work with your network
 
 <div align="center">
 
-## 💼 Professional Services
+## ?? Professional Services
 
 </div>
 
@@ -418,19 +418,19 @@ Looking for expert development services? We offer:
 <tr>
 <td width="33%" align="center">
 
-### 🎨 Custom Development
+### ?? Custom Development
 Full-stack web and mobile applications tailored to your needs
 
 </td>
 <td width="33%" align="center">
 
-### ☁️ Cloud Solutions
+### ?? Cloud Solutions
 Architecture design, migration, and optimization
 
 </td>
 <td width="34%" align="center">
 
-### 🤖 AI Integration
+### ?? AI Integration
 Machine learning models and intelligent systems
 
 </td>
@@ -438,19 +438,19 @@ Machine learning models and intelligent systems
 <tr>
 <td width="33%" align="center">
 
-### 📱 Consulting
+### ?? Consulting
 Technical guidance and best practices
 
 </td>
 <td width="33%" align="center">
 
-### 🔧 Code Review
+### ?? Code Review
 Quality assurance and optimization
 
 </td>
 <td width="34%" align="center">
 
-### 📚 Training
+### ?? Training
 Workshops and technical mentoring
 
 </td>
@@ -460,7 +460,7 @@ Workshops and technical mentoring
 <br>
 
 <a href="mailto:nickschunck17@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Get_In_Touch-Let's_Build_Something_Amazing-a855f7?style=for-the-badge" alt="Contact Us" />
+  <img src="https://img.shields.io/badge/??_Get_In_Touch-Let's_Build_Something_Amazing-a855f7?style=for-the-badge" alt="Contact Us" />
 </a>
 
 </div>
@@ -474,7 +474,7 @@ Workshops and technical mentoring
 
 <div align="center">
 
-## ✨ Our Impact
+## ? Our Impact
 
 </div>
 
@@ -515,12 +515,12 @@ Workshops and technical mentoring
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-a855f7?style=flat-square" alt="Made with love" />
-  <img src="https://img.shields.io/badge/2025-EnvolvimenteH3rr-a855f7?style=flat-square" alt="2025" />
+  <img src="https://img.shields.io/badge/Made_with-??_and_?-a855f7?style=flat-square" alt="Made with love" />
+  <img src="https://img.shields.io/badge/2025-DevYukis-a855f7?style=flat-square" alt="2025" />
   <img src="https://img.shields.io/badge/Open_Source-Forever-a855f7?style=flat-square" alt="Open Source" />
 </p>
 
-**© 2025 EnvolvimenteH3rr • Transforming Ideas Into Digital Reality** 🚀
+**� 2025 DevYukis � Transforming Ideas Into Digital Reality** ??
 
 </div>
 
@@ -661,6 +661,6 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 ### If you like my work, consider following me or starring my repos
 
-[![Star](https://img.shields.io/badge/⭐-Star%20my%20repos-yellow?style=for-the-badge)](https://github.com/DevYukis?tab=repositories)
+[![Star](https://img.shields.io/badge/?-Star%20my%20repos-yellow?style=for-the-badge)](https://github.com/DevYukis?tab=repositories)
 
 </div>

@@ -1,55 +1,112 @@
 <div align="center">
-  
-<!-- Header Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=250&section=header&text=EnvolvimenteH3rr&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Transforming%20Ideas%20Into%20Digital%20Reality&descAlignY=51&descAlign=50" width="100%" />
+
+<!-- Organization Header with Custom Purple Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,33&height=200&section=header&text=DevYukis&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=?%20Transforming%20Ideas%20Into%20Digital%20Reality%20?&descSize=20&descAlignY=55" width="100%" />
 
 <br>
 
-<!-- Dynamic Typing Effect -->
+<!-- Dynamic Typing with Purple Theme -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud+Architecture+Expert+%E2%98%81%EF%B8%8F;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Tomorrow's+Solutions+Today+%E2%9C%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=??+Welcome+to+my+profile;??+Full+Stack+Developer;??+Building+the+future+with+code;?+Innovation+%7C+Quality+%7C+Performance" alt="Typing SVG">
 </a>
-
-<br>
-
-<!-- Custom GIF Header -->
-<img src="./assets/1114.gif" alt="Coding Animation" width="75%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(168, 85, 247, 0.4);" />
 
 <br><br>
 
-<!-- Stats Badges Row -->
+<!-- Profile Badges with Custom Purple Emojis -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=EnvolvimenteH3rr&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/EnvolvimenteH3rr?label=Followers&style=for-the-badge&color=a855f7&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Innovation-a855f7?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=DevYukis&color=a855f7&style=for-the-badge&label=???+PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DevYukis?style=for-the-badge&logo=github&color=a855f7&label=??+FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/??_Focus-Innovation-a855f7?style=for-the-badge" alt="Focus" />
 </p>
 
 </div>
 
 <br>
 
-<!-- Animated Divider -->
+<!-- Animated Divider with Purple Glow -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<div align="center">
+## ????? Nikolas Ribeiro
 
-## 🎯 What's Inside My Digital Workshop
+<p align="center">
+  <strong>?? Full Stack Developer</strong> | ?? S�o Paulo, Brazil
+</p>
 
-</div>
+<p align="center">
+  Specializing in building scalable web applications with modern technologies. <br>
+  Passionate about ?? clean code, ? performance optimization, and ?? solving complex problems.
+</p>
 
-<div align="left">
+<p align="center">
+  <strong>?? Current Focus:</strong> JavaScript Ecosystem � React � Node.js � Cloud Architecture
+</p>
 
-```yaml
-workspace:
-  - innovative_projects: "Building scalable web applications with cutting-edge tech"
-  - technical_articles: "Deep dives into AI, Cloud Computing, and Modern DevOps"
-  - open_source_tools: "Developer utilities and productivity boosters"
-  - learning_resources: "Comprehensive guides and documentation"
-  - collaboration: "Always open to exciting projects and partnerships"
+<hr>
+
+## ?? About Me
+
+```typescript
+const nikolas = {
+  role: "Full Stack Developer",
+  location: "S�o Paulo, Brazil",
+  code: ["JavaScript", "TypeScript", "Python", "C#", "Java"],
+  technologies: {
+    frontEnd: {
+      frameworks: ["React", "Vue.js", "Next.js"],
+      styling: ["TailwindCSS", "CSS3", "SCSS"],
+      tools: ["Vite", "Webpack"]
+    },
+    backEnd: {
+      runtime: ["Node.js", "Express"],
+      frameworks: ["Laravel", "Django", "Flask"],
+      api: ["REST", "GraphQL"]
+    },
+    databases: ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
+    devOps: ["Docker", "AWS", "Azure", "Google Cloud", "Nginx"],
+    tools: ["Git", "GitLab", "Linux", "OAuth"]
+  },
+  currentlyLearning: ["Microservices", "System Design", "AI Integration"],
+  passion: "Building high-performance, user-centric applications"
+};
 ```
 
+### ?? What I Do
+
+- **?? Develop** robust full-stack applications with focus on scalability
+- **?? Design** intuitive and responsive user interfaces
+- **??? Architect** cloud-native solutions and microservices
+- **? Optimize** database performance and API efficiency
+- **?? Collaborate** with cross-functional teams to deliver impactful solutions
+
+### ?? Philosophy
+
+> "? Great code is not just about making it work, but making it maintainable, scalable, and elegant."
+
+I believe in writing code that not only solves today's problems but is also prepared for tomorrow's challenges.
+
+<hr>
+
+## ?? Current Goals
+
+<div align="center">
+
+- ?? Master system design and microservices architecture
+- ?? Contribute more to open source projects
+- ?? Share knowledge through technical writing
+- ?? Mentor aspiring developers
+
+</div>
+
+<hr>
+
+## ? Fun Fact
+
+<div align="center">
+
+When I'm not coding, you'll find me ?? exploring new technologies, ?? contributing to open source, or ? brewing the perfect cup of coffee.
+
 </div>
 
 <br>
@@ -61,51 +118,46 @@ workspace:
 
 <div align="center">
 
-## 👨‍💻 About Me - The Developer Behind The Code
+## ?? What We Build
 
 </div>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 💡 My Philosophy
+### ?? Web Applications
+Modern, scalable full-stack applications with cutting-edge frameworks
 
-```typescript
-const developer = {
-  name: "EnvolvimenteH3rr",
-  role: "Full Stack Developer",
-  mindset: "Innovation over repetition",
-  approach: "Clean code, Smart solutions",
-  passion: ["Problem Solving", "System Design", "Optimization"],
-  currentFocus: {
-    frontend: ["React", "Next.js", "TypeScript"],
-    backend: ["Node.js", ".NET", "Python"],
-    cloud: ["Azure", "Firebase", "Docker"],
-    learning: ["AI/ML", "Microservices", "DevOps"]
-  }
-};
-```
+**?? Tech Stack:**
+- ?? React + TypeScript
+- ?? Node.js + Express
+- ?? Azure Cloud
+- ?? Docker + K8s
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🎯 What Drives Me
+### ?? AI Solutions
+Intelligent systems leveraging machine learning and neural networks
 
-🚀 **Innovation First**  
-Creating solutions that push boundaries
+**?? Focus Areas:**
+- ?? NLP & Chatbots
+- ??? Computer Vision
+- ?? Predictive Analytics
+- ?? ML Model Training
 
-⚡ **Performance Matters**  
-Every millisecond counts in user experience
+</td>
+<td width="34%" align="center">
 
-🧩 **Clean Architecture**  
-Building systems that scale and maintain
+### ?? Developer Tools
+Productivity tools and utilities for the developer community
 
-🌱 **Continuous Learning**  
-Technology evolves, so do I
-
-🤝 **Collaborative Spirit**  
-Great products are built by great teams
+**?? Categories:**
+- ?? VS Code Extensions
+- ?? CLI Tools
+- ?? Automation Scripts
+- ?? Code Generators
 
 </td>
 </tr>
@@ -120,231 +172,74 @@ Great products are built by great teams
 
 <div align="center">
 
-## 🛠️ Technology Arsenal
+## ??? Technology Stack
 
 </div>
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### Core Technologies
 
 <table>
 <tr>
-<td align="center" width="96">
-<a href="https://www.javascript.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-</a>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" />
 <br>JavaScript
 </td>
-<td align="center" width="96">
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-</a>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript" />
 <br>TypeScript
 </td>
-<td align="center" width="96">
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-</a>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
 <br>Python
 </td>
-<td align="center" width="96">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-</a>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#" />
 <br>C#
 </td>
-<td align="center" width="96">
-<a href="https://cplusplus.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-</a>
-<br>C++
-</td>
-<td align="center" width="96">
-<a href="https://en.cppreference.com/w/c" target="_blank">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-</a>
-<br>C
-</td>
-</tr>
-</table>
-
-### 🎨 Frontend Development
-
-<table>
-<tr>
-<td align="center" width="96">
-<a href="https://react.dev/" target="_blank">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-</a>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
 <br>React
 </td>
-<td align="center" width="96">
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-</a>
-<br>Next.js
-</td>
-<td align="center" width="96">
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-</a>
-<br>Tailwind
-</td>
-<td align="center" width="96">
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-</a>
-<br>HTML5
-</td>
-<td align="center" width="96">
-<a href="https://www.w3.org/Style/CSS/" target="_blank">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-</a>
-<br>CSS3
-</td>
-</tr>
-</table>
-
-### ⚙️ Backend & Cloud
-
-<table>
-<tr>
-<td align="center" width="96">
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-</a>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
 <br>Node.js
 </td>
-<td align="center" width="96">
-<a href="https://dotnet.microsoft.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-</a>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
+<br>Next.js
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET" />
 <br>.NET
 </td>
-<td align="center" width="96">
-<a href="https://azure.microsoft.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-</a>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=azure" width="50" height="50" alt="Azure" />
 <br>Azure
 </td>
-<td align="center" width="96">
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-</a>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase" />
 <br>Firebase
 </td>
-<td align="center" width="96">
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-</a>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
 <br>Docker
 </td>
-</tr>
-</table>
-
-### 🤖 AI & Data Science
-
-<table>
-<tr>
-<td align="center" width="96">
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-</a>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow" />
 <br>TensorFlow
 </td>
-<td align="center" width="96">
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-</a>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch" />
 <br>PyTorch
 </td>
-<td align="center" width="96">
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
-</a>
-<br>Scikit-learn
-</td>
-</tr>
-</table>
-
-### 🎮 Game & Creative
-
-<table>
-<tr>
-<td align="center" width="96">
-<a href="https://unity.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
-</a>
-<br>Unity
-</td>
-<td align="center" width="96">
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-<img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-</a>
-<br>Photoshop
-</td>
-<td align="center" width="96">
-<a href="https://www.adobe.com/products/premiere.html" target="_blank">
-<img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere" />
-</a>
-<br>Premiere
-</td>
-<td align="center" width="96">
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-<img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="After Effects" />
-</a>
-<br>After Effects
-</td>
-<td align="center" width="96">
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-<img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
-</a>
-<br>Illustrator
-</td>
-</tr>
-</table>
-
-### 🔧 Tools & Platforms
-
-<table>
-<tr>
-<td align="center" width="96">
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-</a>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
 <br>Git
 </td>
-<td align="center" width="96">
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-</a>
-<br>GitHub
-</td>
-<td align="center" width="96">
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-</a>
-<br>VS Code
-</td>
-<td align="center" width="96">
-<a href="https://visualstudio.microsoft.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
-</a>
-<br>Visual Studio
-</td>
-<td align="center" width="96">
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-</a>
-<br>Linux
-</td>
-<td align="center" width="96">
-<a href="https://www.microsoft.com/windows" target="_blank">
-<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
-</a>
-<br>Windows
-</td>
 </tr>
 </table>
 
@@ -359,86 +254,27 @@ Great products are built by great teams
 
 <div align="center">
 
-## 🏆 Signature Projects
+## ?? Featured Repositories
 
 </div>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<a href="https://github.com/DevYukis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevYukis&repo=smart-web-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Smart Web Platform" />
+</a>
+<a href="https://github.com/DevYukis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevYukis&repo=ai-assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="AI Assistant" />
+</a>
 
-### 🌐 Smart Web Platform
-**Enterprise-grade web application**
+<br>
 
-Built with modern architecture principles, this platform handles thousands of concurrent users with sub-second response times.
-
-```javascript
-Tech Stack: React 18 + TypeScript
-Backend: Node.js + Express
-Cloud: Azure Functions + CosmosDB
-DevOps: Docker + GitHub Actions
-```
-
-**Impact:** 99.9% uptime • 200ms avg response
-
-</td>
-<td width="50%">
-
-### 🤖 AI Cognitive Assistant
-**Neural language processing system**
-
-Advanced AI assistant utilizing transformer models for natural language understanding and contextual responses.
-
-```python
-Framework: PyTorch + TensorFlow
-Models: BERT, GPT-based architecture
-Training: Custom fine-tuning pipeline
-Deployment: Azure ML Studio
-```
-
-**Performance:** 95% accuracy • Real-time inference
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ☁️ Cloud Infrastructure Suite
-**Multi-cloud architecture solution**
-
-Scalable, fault-tolerant infrastructure with automated deployment pipelines and comprehensive monitoring.
-
-```yaml
-Platform: Azure + Firebase
-IaC: Terraform + ARM Templates
-Monitoring: Application Insights
-Security: AAD + Key Vault
-```
-
-**Results:** 40% cost reduction • Auto-scaling
-
-</td>
-<td width="50%">
-
-### 📊 Real-time Analytics Engine
-**High-performance data processing**
-
-Stream processing system handling millions of events per second with real-time visualization dashboards.
-
-```typescript
-Processing: Apache Kafka + Redis
-Visualization: D3.js + Custom WebGL
-Storage: TimescaleDB + InfluxDB
-API: GraphQL + WebSockets
-```
-
-**Capacity:** 5M events/sec • <10ms latency
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/DevYukis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevYukis&repo=cloud-infrastructure&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Cloud Infrastructure" />
+</a>
+<a href="https://github.com/DevYukis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevYukis&repo=dev-tools&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Developer Tools" />
+</a>
 
 </div>
 
@@ -451,7 +287,7 @@ API: GraphQL + WebSockets
 
 <div align="center">
 
-## 📊 GitHub Analytics & Performance
+## ?? Organization Statistics
 
 </div>
 
@@ -460,43 +296,19 @@ API: GraphQL + WebSockets
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnvolvimenteH3rr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevYukis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnvolvimenteH3rr&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EnvolvimenteH3rr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook,html,css" alt="Top Languages" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=EnvolvimenteH3rr&limit=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" alt="Contributions" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevYukis&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
 
 <br>
 
-### 📈 Contribution Activity
+### ?? Activity & Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EnvolvimenteH3rr&custom_title=EnvolvimenteH3rr's%20Contribution%20Graph&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&area_color=a855f7&hide_border=true" alt="Activity Graph" width="100%" />
-
-<br>
-
-### 🏅 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=EnvolvimenteH3rr&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%" />
-
-<br>
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnvolvimenteH3rr/EnvolvimenteH3rr/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EnvolvimenteH3rr/EnvolvimenteH3rr/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EnvolvimenteH3rr/EnvolvimenteH3rr/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevYukis&custom_title=Organization%20Activity%20Graph&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&area_color=a855f7&hide_border=true" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -509,40 +321,40 @@ API: GraphQL + WebSockets
 
 <div align="center">
 
-## 💼 Let's Connect & Collaborate
+## ?? Join Our Community
 
 </div>
 
 <div align="center">
 
+We believe in the power of ?? collaboration and ?? open source. Here's how you can get involved:
+
+<br>
+
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 📬 Direct Contact
-
-[![Email](https://img.shields.io/badge/Email-nickschunck17%40gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickschunck17@gmail.com)
-
-Drop me an email for project inquiries, collaborations, or just to say hi!
+### ?? Star Projects
+Show support by starring repositories you find useful
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 🌐 Professional Network
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikolas--ribeiro-a855f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikolas-ribeiro)
-
-Let's connect professionally and explore opportunities together.
+### ?? Contribute
+Submit PRs and help improve our projects
 
 </td>
-<td align="center" width="34%">
+<td align="center" width="25%">
 
-### 🎨 Social & Updates
+### ?? Share Ideas
+Open issues with suggestions and feedback
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40DevYukis-a855f7?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/DevYukis)
-[![Instagram](https://img.shields.io/badge/Instagram-%40dev.nick__-a855f7?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev.nick_)
+</td>
+<td align="center" width="25%">
 
-Follow for tech insights and creative content!
+### ?? Spread the Word
+Share our work with your network
 
 </td>
 </tr>
@@ -550,10 +362,19 @@ Follow for tech insights and creative content!
 
 <br>
 
-### 🌟 Portfolio & More
+### ?? Connect With Us
 
-<a href="https://architect.guarasal.com" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-architect.guarasal.com-a855f7?style=for-the-badge&labelColor=0d1117" alt="Portfolio" />
+<a href="https://github.com/DevYukis">
+  <img src="https://img.shields.io/badge/??_GitHub-Follow-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+</a>
+<a href="mailto:nickschunck17@gmail.com">
+  <img src="https://img.shields.io/badge/??_Email-Contact-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/nikolas-ribeiro">
+  <img src="https://img.shields.io/badge/??_LinkedIn-Connect-a855f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://architect.guarasal.com">
+  <img src="https://img.shields.io/badge/??_Website-Visit-a855f7?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
 </a>
 
 </div>
@@ -567,32 +388,80 @@ Follow for tech insights and creative content!
 
 <div align="center">
 
-## 🤝 Open Source & Collaboration
+## ?? Latest Activity
+
+</div>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<div align="center">
+
+## ?? Professional Services
 
 </div>
 
 <div align="center">
 
-```diff
-+ 💡 Got an innovative project idea? Let's build it!
-+ 🐛 Found a bug in my repos? Issues and PRs are always welcome!
-+ 📚 Want to contribute to documentation? Every improvement counts!
-+ 🌟 Enjoyed my work? Star the repos and spread the word!
-```
+Looking for expert development services? We offer:
 
 <br>
 
-### 🎯 Areas I'm Excited About
-
 <table>
 <tr>
-<td align="center">🚀<br><b>Full Stack Apps</b></td>
-<td align="center">☁️<br><b>Cloud Architecture</b></td>
-<td align="center">🤖<br><b>AI/ML Solutions</b></td>
-<td align="center">⚡<br><b>Performance Optimization</b></td>
-<td align="center">🔧<br><b>Developer Tools</b></td>
+<td width="33%" align="center">
+
+### ?? Custom Development
+Full-stack web and mobile applications tailored to your needs
+
+</td>
+<td width="33%" align="center">
+
+### ?? Cloud Solutions
+Architecture design, migration, and optimization
+
+</td>
+<td width="34%" align="center">
+
+### ?? AI Integration
+Machine learning models and intelligent systems
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+### ?? Consulting
+Technical guidance and best practices
+
+</td>
+<td width="33%" align="center">
+
+### ?? Code Review
+Quality assurance and optimization
+
+</td>
+<td width="34%" align="center">
+
+### ?? Training
+Workshops and technical mentoring
+
+</td>
 </tr>
 </table>
+
+<br>
+
+<a href="mailto:nickschunck17@gmail.com">
+  <img src="https://img.shields.io/badge/??_Get_In_Touch-Let's_Build_Something_Amazing-a855f7?style=for-the-badge" alt="Contact Us" />
+</a>
 
 </div>
 
@@ -605,41 +474,193 @@ Follow for tech insights and creative content!
 
 <div align="center">
 
-## ✨ Final Thoughts
+## ? Our Impact
 
-<br>
+</div>
 
-<img src="https://readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=Redressed" alt="Random Dev Quote" />
+<div align="center">
 
-<br><br>
-
-> ### 💭 _"Great software isn't just written—it's crafted with passion, precision, and purpose."_
-> 
-> **— EnvolvimenteH3rr**
-
-<br>
-
-### 🌈 Thanks for stopping by!
-
-If you find value in my work, consider:
-
-[![Star](https://img.shields.io/badge/⭐_Star_My_Repos-Motivates_Me!-yellow?style=for-the-badge)](https://github.com/EnvolvimenteH3rr?tab=repositories)
-[![Follow](https://img.shields.io/badge/👤_Follow_Me-Stay_Updated!-a855f7?style=for-the-badge)](https://github.com/EnvolvimenteH3rr)
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/15+-??_Projects-success?style=for-the-badge&logoColor=white&color=a855f7" alt="Projects" />
+<br><b>Active Projects</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/1000+-??_Commits-blue?style=for-the-badge&logoColor=white&color=a855f7" alt="Commits" />
+<br><b>Code Commits</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/50+-??_Contributors-orange?style=for-the-badge&logoColor=white&color=a855f7" alt="Contributors" />
+<br><b>Community Members</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/10K+-??_Lines-red?style=for-the-badge&logoColor=white&color=a855f7" alt="Code" />
+<br><b>Lines of Code</b>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-<!-- Footer Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=150&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=a855f7&animation=twinkling" width="100%" />
-
+<!-- Footer -->
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,33&height=120&section=footer" width="100%" />
+
+<br>
 
 ---
 
-![Made with ❤️](https://img.shields.io/badge/Made_with-❤️_and_☕-a855f7?style=flat-square)
-![Visitors Today](https://img.shields.io/badge/dynamic/json?color=a855f7&label=Visitors%20Today&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FEnvolvimenteH3rr%2Freadme&style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Made_with-??_and_?-a855f7?style=flat-square" alt="Made with love" />
+  <img src="https://img.shields.io/badge/2025-?_DevYukis-a855f7?style=flat-square" alt="2025" />
+  <img src="https://img.shields.io/badge/??_Open_Source-Forever-a855f7?style=flat-square" alt="Open Source" />
+</p>
 
-**© 2025 EnvolvimenteH3rr • Building the Future, One Commit at a Time** 🚀
+**� 2025 DevYukis � Transforming Ideas Into Digital Reality** ??
+
+</div>
+
+</div>
+
+### Hardware, OS & Utilities
+
+<div align="center">
+
+<a href="https://www.arduino.cc/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="Arduino" />
+</a>
+<a href="https://www.raspberrypi.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="50" alt="Raspberry Pi" />
+</a>
+<a href="https://learn.microsoft.com/en-us/cpp/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
+</a>
+<a href="https://www.apple.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=apple" height="50" alt="Apple" />
+</a>
+<a href="https://ubuntu.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="Ubuntu" />
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
+</a>
+<a href="https://www.powershellgallery.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="PowerShell" />
+</a>
+
+</div>
+
+### AI & Writing
+
+<div align="center">
+
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" />
+</a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" />
+</a>
+<a href="https://www.latex-project.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=latex" height="50" alt="LaTeX" />
+</a>
+<a href="https://www.markdownguide.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="Markdown" />
+</a>
+
+</div>
+
+</div>
+
+<hr>
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="trophies" />
+</div>
+
+<hr>
+
+## Connect With Me
+
+<div align="center">
+  <a href="https://www.instagram.com/dev.nick_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikolas-ribeiro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:nickschunck17@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://twitter.com/DevYukis" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+</div>
+
+<hr>
+
+## Recent Projects
+
+<div align="center">
+
+_Projects coming soon..._
+
+</div>
+
+<hr>
+
+## Contribution Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevYukis/DevYukis/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevYukis/DevYukis/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevYukis/DevYukis/output/github-contribution-grid-snake.svg">
+</picture>
+
+<hr>
+
+<div align="center">
+  
+### Quote of the Day
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
+</div>
+
+<hr>
+
+<div align="center">
+  
+### Fun Fact
+  
+When I'm not coding, you'll find me exploring new technologies, contributing to open source, or brewing the perfect cup of coffee.
+
+  
+### Current Goals
+  
+- Master system design and microservices architecture
+- Contribute more to open source projects
+- Share knowledge through technical writing
+- Mentor aspiring developers
+
+</div>
+
+<hr>
+
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%" />
+
+### If you like my work, consider following me or starring my repos
+
+[![Star](https://img.shields.io/badge/?-Star%20my%20repos-yellow?style=for-the-badge)](https://github.com/DevYukis?tab=repositories)
 
 </div>

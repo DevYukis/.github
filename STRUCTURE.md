@@ -1,4 +1,4 @@
-# 📁 Estrutura Completa do Projeto
+﻿# 📁 Estrutura Completa do Projeto
 
 ## 🎯 Visão Geral
 

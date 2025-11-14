@@ -1,4 +1,4 @@
-# GitHub Profile Advanced - Template
+﻿# GitHub Profile Advanced - Template
 
 <div align="center">
 

@@ -1,4 +1,4 @@
-# Código de Conduta do Pacto de Contribuintes
+﻿# Código de Conduta do Pacto de Contribuintes
 
 ## Nosso Compromisso
 

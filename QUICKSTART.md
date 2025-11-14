@@ -1,4 +1,4 @@
-# ⚡ Guia Rápido - 5 Minutos
+﻿# ⚡ Guia Rápido - 5 Minutos
 
 ## 🎯 Objetivo
 

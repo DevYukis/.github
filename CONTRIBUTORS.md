@@ -1,4 +1,4 @@
-# 🎖️ Contribuidores
+﻿# 🎖️ Contribuidores
 
 Obrigado a todas essas pessoas incríveis que contribuíram para este projeto! 🎉
 

@@ -1,4 +1,4 @@
-# 📖 README Structure Guide
+﻿# 📖 README Structure Guide
 
 ## Understanding GitHub READMEs
 
@@ -9,8 +9,8 @@ This project contains **two types of README files**, each serving a different pu
 ## 🎯 1. Profile README (`README.md`)
 
 **Location:** Root of repository  
-**URL:** `https://github.com/EnvolvimenteH3rr/EnvolvimenteH3rr/blob/main/README.md`  
-**Displays On:** Your GitHub profile page (`https://github.com/EnvolvimenteH3rr`)
+**URL:** `https://github.com/DevYukis/DevYukis/blob/main/README.md`  
+**Displays On:** Your GitHub profile page (`https://github.com/DevYukis`)
 
 ### Purpose
 This is your **personal GitHub profile** that visitors see when they visit your profile page.
@@ -35,7 +35,7 @@ This is your **personal GitHub profile** that visitors see when they visit your 
 ## 📦 2. Project README (`PROJECT_README.md`)
 
 **Location:** Root of repository  
-**URL:** `https://github.com/EnvolvimenteH3rr/GITNPPP/blob/main/PROJECT_README.md`  
+**URL:** `https://github.com/DevYukis/GITNPPP/blob/main/PROJECT_README.md`  
 **Displays On:** Repository page (when viewing the repo itself)
 
 ### Purpose
@@ -63,7 +63,7 @@ This is the **project documentation** explaining what GITNPPP is and how to use 
 
 **Location:** `.github/profile/README.md`  
 **URL:** Shows on organization page  
-**Displays On:** `https://github.com/EnvolvimenteH3rr` (if it's an organization)
+**Displays On:** `https://github.com/DevYukis` (if it's an organization)
 
 ### Purpose
 This is for **GitHub Organizations** (not personal accounts).
@@ -119,15 +119,15 @@ organization-name/.github/
 
 ---
 
-## 🎯 Current Setup for EnvolvimenteH3rr
+## 🎯 Current Setup for DevYukis
 
 ### Scenario 1: Personal Account
 
-If `EnvolvimenteH3rr` is a **personal account**:
+If `DevYukis` is a **personal account**:
 
 ```
-EnvolvimenteH3rr/EnvolvimenteH3rr/    ← Special profile repo
-├── README.md                          ← Your profile (visible on https://github.com/EnvolvimenteH3rr)
+DevYukis/DevYukis/    ← Special profile repo
+├── README.md                          ← Your profile (visible on https://github.com/DevYukis)
 ├── PROJECT_README.md                  ← Project documentation
 ├── .github/
 │   └── profile/
@@ -136,7 +136,7 @@ EnvolvimenteH3rr/EnvolvimenteH3rr/    ← Special profile repo
 ```
 
 **To Use:**
-1. Create a repo named exactly `EnvolvimenteH3rr` (same as your username)
+1. Create a repo named exactly `DevYukis` (same as your username)
 2. Add `README.md` - this becomes your profile
 3. It will automatically show on your profile page
 
@@ -144,15 +144,15 @@ EnvolvimenteH3rr/EnvolvimenteH3rr/    ← Special profile repo
 
 ### Scenario 2: Organization
 
-If `EnvolvimenteH3rr` is an **organization**:
+If `DevYukis` is an **organization**:
 
 ```
-EnvolvimenteH3rr/.github/             ← Special .github repo
+DevYukis/.github/             ← Special .github repo
 ├── profile/
 │   └── README.md                      ← Organization profile
 └── ...
 
-EnvolvimenteH3rr/GITNPPP/             ← Project repository
+DevYukis/GITNPPP/             ← Project repository
 ├── README.md                          ← Project documentation
 └── ...
 ```
@@ -195,7 +195,7 @@ EnvolvimenteH3rr/GITNPPP/             ← Project repository
 ### Option A: Personal Profile
 ```bash
 # Create profile repository
-# Repository name MUST be: EnvolvimenteH3rr (your username)
+# Repository name MUST be: DevYukis (your username)
 
 # Use README.md for your profile
 cp README.md your-profile-repo/README.md

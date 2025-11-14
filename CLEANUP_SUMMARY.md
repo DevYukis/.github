@@ -1,4 +1,4 @@
-# Code Review and Cleanup Summary
+﻿# Code Review and Cleanup Summary
 
 ## Changes Made
 
