@@ -1,22 +1,27 @@
 <div align="center">
 
 <!-- Organization Header with Custom Purple Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,33&height=200&section=header&text=DevYukis&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=?%20Transforming%20Ideas%20Into%20Digital%20Reality%20?&descSize=20&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,33&height=200&section=header&text=DevYukis&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=✨%20Transforming%20Ideas%20Into%20Digital%20Reality%20✨&descSize=20&descAlignY=55" width="100%" />
 
 <br>
 
 <!-- Dynamic Typing with Purple Theme -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=??+Welcome+to+my+profile;??+Full+Stack+Developer;??+Building+the+future+with+code;?+Innovation+%7C+Quality+%7C+Performance" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=🎯+Welcome+to+my+profile;💻+Full+Stack+Developer;🚀+Building+the+future+with+code;✨+Innovation+%7C+Quality+%7C+Performance" alt="Typing SVG">
 </a>
 
 <br><br>
 
 <!-- Profile Badges with Custom Purple Emojis -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=DevYukis&color=a855f7&style=for-the-badge&label=???+PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DevYukis?style=for-the-badge&logo=github&color=a855f7&label=??+FOLLOWERS" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/??_Focus-Innovation-a855f7?style=for-the-badge" alt="Focus" />
+  <img src="./assets/emojis/purple-eye.svg" width="18" alt="Eye Icon" />
+  <img src="https://komarev.com/ghpvc/?username=DevYukis&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  
+  <img src="./assets/emojis/purple-users.svg" width="18" alt="Users Icon" />
+  <img src="https://img.shields.io/github/followers/DevYukis?style=for-the-badge&logo=github&color=a855f7&label=FOLLOWERS" alt="GitHub followers" />
+  
+  <img src="./assets/emojis/purple-target.svg" width="18" alt="Target Icon" />
+  <img src="https://img.shields.io/badge/Focus-Innovation-a855f7?style=for-the-badge" alt="Focus" />
 </p>
 
 </div>
@@ -28,29 +33,29 @@
 
 <br>
 
-## ????? Nikolas Ribeiro
+## <img src="./assets/emojis/purple-code.svg" width="28" alt="Code" /> Nikolas Ribeiro
 
 <p align="center">
-  <strong>?? Full Stack Developer</strong> | ?? S�o Paulo, Brazil
+  <strong><img src="./assets/emojis/purple-heart.svg" width="18" alt="Heart" /> Full Stack Developer</strong> | 📍 São Paulo, Brazil
 </p>
 
 <p align="center">
   Specializing in building scalable web applications with modern technologies. <br>
-  Passionate about ?? clean code, ? performance optimization, and ?? solving complex problems.
+  Passionate about <img src="./assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" /> clean code, <img src="./assets/emojis/purple-lightning.svg" width="16" alt="Lightning" /> performance optimization, and <img src="./assets/emojis/purple-target.svg" width="16" alt="Target" /> solving complex problems.
 </p>
 
 <p align="center">
-  <strong>?? Current Focus:</strong> JavaScript Ecosystem � React � Node.js � Cloud Architecture
+  <strong><img src="./assets/emojis/purple-fire.svg" width="16" alt="Fire" /> Current Focus:</strong> JavaScript Ecosystem • React • Node.js • Cloud Architecture
 </p>
 
 <hr>
 
-## ?? About Me
+## <img src="./assets/emojis/purple-sparkles.svg" width="26" alt="Sparkles" /> About Me
 
 ```typescript
 const nikolas = {
   role: "Full Stack Developer",
-  location: "S�o Paulo, Brazil",
+  location: "São Paulo, Brazil",
   code: ["JavaScript", "TypeScript", "Python", "C#", "Java"],
   technologies: {
     frontEnd: {
@@ -72,40 +77,40 @@ const nikolas = {
 };
 ```
 
-### ?? What I Do
+### <img src="./assets/emojis/purple-target.svg" width="22" alt="Target" /> What I Do
 
-- **?? Develop** robust full-stack applications with focus on scalability
-- **?? Design** intuitive and responsive user interfaces
-- **??? Architect** cloud-native solutions and microservices
-- **? Optimize** database performance and API efficiency
-- **?? Collaborate** with cross-functional teams to deliver impactful solutions
+- **💻 Develop** robust full-stack applications with focus on scalability
+- **🎨 Design** intuitive and responsive user interfaces
+- **🏗️ Architect** cloud-native solutions and microservices
+- **<img src="./assets/emojis/purple-lightning.svg" width="14" alt="Lightning" /> Optimize** database performance and API efficiency
+- **🤝 Collaborate** with cross-functional teams to deliver impactful solutions
 
-### ?? Philosophy
+### <img src="./assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> Philosophy
 
-> "? Great code is not just about making it work, but making it maintainable, scalable, and elegant."
+> "<img src="./assets/emojis/purple-star.svg" width="16" alt="Star" /> Great code is not just about making it work, but making it maintainable, scalable, and elegant."
 
 I believe in writing code that not only solves today's problems but is also prepared for tomorrow's challenges.
 
 <hr>
 
-## ?? Current Goals
+## <img src="./assets/emojis/purple-target.svg" width="24" alt="Target" /> Current Goals
 
 <div align="center">
 
-- ?? Master system design and microservices architecture
-- ?? Contribute more to open source projects
-- ?? Share knowledge through technical writing
-- ?? Mentor aspiring developers
+- 🎓 Master system design and microservices architecture
+- <img src="./assets/emojis/purple-star.svg" width="16" alt="Star" /> Contribute more to open source projects
+- ✍️ Share knowledge through technical writing
+- 👥 Mentor aspiring developers
 
 </div>
 
 <hr>
 
-## ? Fun Fact
+## <img src="./assets/emojis/purple-sparkles.svg" width="22" alt="Sparkles" /> Fun Fact
 
 <div align="center">
 
-When I'm not coding, you'll find me ?? exploring new technologies, ?? contributing to open source, or ? brewing the perfect cup of coffee.
+When I'm not coding, you'll find me 🔍 exploring new technologies, 🤝 contributing to open source, or ☕ brewing the perfect cup of coffee.
 
 </div>
 
@@ -118,7 +123,7 @@ When I'm not coding, you'll find me ?? exploring new technologies, ?? contributi
 
 <div align="center">
 
-## ?? What We Build
+## <img src="./assets/emojis/purple-rocket.svg" width="26" alt="Rocket" /> What We Build
 
 </div>
 
@@ -520,7 +525,7 @@ Workshops and technical mentoring
   <img src="https://img.shields.io/badge/??_Open_Source-Forever-a855f7?style=flat-square" alt="Open Source" />
 </p>
 
-**� 2025 DevYukis � Transforming Ideas Into Digital Reality** ??
+**� 2025 DevYukis � Transforming Ideas Into Digital Reality** ??
 
 </div>
 
