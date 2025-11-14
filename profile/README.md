@@ -1,4 +1,4 @@
-<div align="center">
+ï»¿<div align="center">
 
 <!-- Organization Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=200&section=header&text=DevYukis&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" />
@@ -28,67 +28,81 @@
 
 <br>
 
-## Nikolas Ribeiro
+## <img src="./assets/emojis/purple-code.svg" width="28" alt="Code" /> About Me
 
-<p align="center">
-  <strong>Full Stack Developer</strong> | São Paulo, Brazil
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  Specializing in building scalable web applications with modern technologies. <br>
-  Passionate about clean code, performance optimization, and solving complex problems.
-</p>
-
-<p align="center">
-  <strong>Current Focus:</strong> JavaScript Ecosystem • React • Node.js • Cloud Architecture
-</p>
-
-<hr>
-
-## About Me
+### <img src="./assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> Who Am I
 
 ```typescript
 const nikolas = {
+  name: "Nikolas Ribeiro",
   role: "Full Stack Developer",
-  location: "São Paulo, Brazil",
-  code: ["JavaScript", "TypeScript", "Python", "C#", "Java"],
-  technologies: {
-    frontEnd: {
-      frameworks: ["React", "Vue.js", "Next.js"],
-      styling: ["TailwindCSS", "CSS3", "SCSS"],
-      tools: ["Vite", "Webpack"]
-    },
-    backEnd: {
-      runtime: ["Node.js", "Express"],
-      frameworks: ["Laravel", "Django", "Flask"],
-      api: ["REST", "GraphQL"]
-    },
-    databases: ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
-    devOps: ["Docker", "AWS", "Azure", "Google Cloud", "Nginx"],
-    tools: ["Git", "GitLab", "Linux", "OAuth"]
-  },
-  currentlyLearning: ["Microservices", "System Design", "AI Integration"],
-  passion: "Building high-performance, user-centric applications"
+  location: "SÃ£o Paulo, Brazil",
+  email: "nickschunck17@gmail.com",
+  website: "architect.guarasal.com",
+  
+  focus: [
+    "Building scalable applications",
+    "Clean code architecture",
+    "Performance optimization"
+  ],
+  
+  currentlyLearning: [
+    "Microservices",
+    "System Design",
+    "AI Integration"
+  ]
 };
 ```
 
-### What I Do
+### <img src="./assets/emojis/purple-fire.svg" width="18" alt="Fire" /> What I Do
 
-- **Develop** robust full-stack applications with focus on scalability
-- **Design** intuitive and responsive user interfaces
-- **Architect** cloud-native solutions and microservices
-- **Optimize** database performance and API efficiency
-- **Collaborate** with cross-functional teams to deliver impactful solutions
+- <img src="./assets/emojis/purple-code.svg" width="14" alt="Code" /> **Develop** robust full-stack applications
+- <img src="./assets/emojis/purple-sparkles.svg" width="14" alt="Sparkles" /> **Design** intuitive user interfaces
+- <img src="./assets/emojis/purple-target.svg" width="14" alt="Target" /> **Architect** cloud-native solutions
+- <img src="./assets/emojis/purple-lightning.svg" width="14" alt="Lightning" /> **Optimize** performance & scalability
 
-### Philosophy
+</td>
+<td width="50%" valign="top">
 
-> "Great code is not just about making it work, but making it maintainable, scalable, and elegant."
+### <img src="./assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Tech Stack
+
+**Frontend**
+- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> React, Vue.js, Next.js
+- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> TypeScript, JavaScript
+- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> TailwindCSS, SCSS
+
+**Backend**
+- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> Node.js, Express
+- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> Python, Django, Flask
+- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> C#, .NET, Laravel
+
+**Database & Cloud**
+- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> PostgreSQL, MySQL, MongoDB
+- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> AWS, Azure, Google Cloud
+- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> Docker, Kubernetes, Nginx
+
+**Tools & Others**
+- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> Git, GitLab, GitHub Actions
+- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> REST APIs, GraphQL
+- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> TensorFlow, PyTorch
+
+</td>
+</tr>
+</table>
+
+### <img src="./assets/emojis/purple-heart.svg" width="20" alt="Heart" /> Philosophy
+
+> <img src="./assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" /> *"Great code is not just about making it work, but making it maintainable, scalable, and elegant."*
 
 I believe in writing code that not only solves today's problems but is also prepared for tomorrow's challenges.
 
 <hr>
 
-## ?? Current Goals
+## <img src="./assets/emojis/purple-target.svg" width="24" alt="Target" /> Current Goals
 
 <div align="center">
 
@@ -520,7 +534,7 @@ Workshops and technical mentoring
   <img src="https://img.shields.io/badge/Open_Source-Forever-a855f7?style=flat-square" alt="Open Source" />
 </p>
 
-**© 2025 DevYukis • Transforming Ideas Into Digital Reality** ??
+**ï¿½ 2025 DevYukis ï¿½ Transforming Ideas Into Digital Reality** ??
 
 </div>
 
