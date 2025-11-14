@@ -145,38 +145,38 @@ When I'm not coding, you'll find me 🔍 exploring new technologies, 🤝 contri
 <tr>
 <td width="33%" align="center">
 
-### ?? Web Applications
+### <img src="./assets/emojis/purple-target.svg" width="20" alt="Target" /> Web Applications
 Modern, scalable full-stack applications with cutting-edge frameworks
 
-**?? Tech Stack:**
-- ?? React + TypeScript
-- ?? Node.js + Express
-- ?? Azure Cloud
-- ?? Docker + K8s
+**<img src="./assets/emojis/purple-code.svg" width="16" alt="Code" /> Tech Stack:**
+- ⚛️ React + TypeScript
+- 💚 Node.js + Express
+- ☁️ Azure Cloud
+- 🐳 Docker + K8s
 
 </td>
 <td width="33%" align="center">
 
-### ?? AI Solutions
+### <img src="./assets/emojis/purple-eye.svg" width="20" alt="Eye" /> AI Solutions
 Intelligent systems leveraging machine learning and neural networks
 
-**?? Focus Areas:**
-- ?? NLP & Chatbots
-- ??? Computer Vision
-- ?? Predictive Analytics
-- ?? ML Model Training
+**<img src="./assets/emojis/purple-lightning.svg" width="16" alt="Lightning" /> Focus Areas:**
+- 💬 NLP & Chatbots
+- 👁️ Computer Vision
+- 📊 Predictive Analytics
+- 🧠 ML Model Training
 
 </td>
 <td width="34%" align="center">
 
-### ?? Developer Tools
+### <img src="./assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Developer Tools
 Productivity tools and utilities for the developer community
 
-**?? Categories:**
-- ?? VS Code Extensions
-- ?? CLI Tools
-- ?? Automation Scripts
-- ?? Code Generators
+**<img src="./assets/emojis/purple-star.svg" width="16" alt="Star" /> Categories:**
+- 🔌 VS Code Extensions
+- ⚡ CLI Tools
+- 🤖 Automation Scripts
+- 🛠️ Code Generators
 
 </td>
 </tr>
@@ -191,7 +191,7 @@ Productivity tools and utilities for the developer community
 
 <div align="center">
 
-## ??? Technology Stack
+## <img src="./assets/emojis/purple-code.svg" width="26" alt="Code" /> Technology Stack
 
 </div>
 
@@ -273,7 +273,57 @@ Productivity tools and utilities for the developer community
 
 <div align="center">
 
-## ?? Featured Repositories
+## <img src="./assets/emojis/purple-sparkles.svg" width="26" alt="Sparkles" /> Creative Visuals
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### <img src="./assets/emojis/purple-fire.svg" width="20" alt="Fire" /> Animated GIFs
+
+<img src="./assets/1114.gif" width="100%" alt="Creative Animation" />
+
+<p style="color: #a855f7; margin-top: 10px;">
+  <strong>Custom animations</strong> created for visual storytelling
+</p>
+
+</td>
+<td width="50%" align="center">
+
+### <img src="./assets/emojis/purple-heart.svg" width="20" alt="Heart" /> Design Elements
+
+<div style="background: rgba(168, 85, 247, 0.1); padding: 20px; border-radius: 12px; border: 2px solid rgba(168, 85, 247, 0.3);">
+
+**Creative Assets:**
+- <img src="./assets/emojis/purple-sparkles.svg" width="14" alt="Sparkles" /> Custom SVG Animations
+- <img src="./assets/emojis/purple-star.svg" width="14" alt="Star" /> Interactive Visuals
+- <img src="./assets/emojis/purple-rocket.svg" width="14" alt="Rocket" /> Motion Graphics
+- <img src="./assets/emojis/purple-lightning.svg" width="14" alt="Lightning" /> Dynamic Elements
+
+**Design Tools:**
+- Adobe After Effects
+- Figma & Sketch
+- CSS Animations
+- SVG Optimization
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<div align="center">
+
+## <img src="./assets/emojis/purple-star.svg" width="26" alt="Star" /> Featured Repositories
 
 </div>
 
@@ -306,7 +356,7 @@ Productivity tools and utilities for the developer community
 
 <div align="center">
 
-## ?? Organization Statistics
+## <img src="./assets/emojis/purple-users.svg" width="26" alt="Users" /> Organization Statistics
 
 </div>
 
@@ -325,7 +375,7 @@ Productivity tools and utilities for the developer community
 
 <br>
 
-### ?? Activity & Contributions
+### <img src="./assets/emojis/purple-fire.svg" width="22" alt="Fire" /> Activity & Contributions
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevYukis&custom_title=Organization%20Activity%20Graph&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&area_color=a855f7&hide_border=true" alt="Activity Graph" width="100%" />
 

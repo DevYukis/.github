@@ -115,7 +115,7 @@ I believe in writing code that not only solves today's problems but is also prep
 
 <hr>
 
-## ?? Fun Fact
+## 💫 Fun Fact
 
 <div align="center">
 
@@ -132,7 +132,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <div align="center">
 
-## ?? What We Build
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="26" alt="Rocket" /> What We Build
 
 </div>
 
@@ -140,7 +140,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 <tr>
 <td width="33%" align="center">
 
-### ?? Web Applications
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="20" alt="Target" /> Web Applications
 Modern, scalable full-stack applications with cutting-edge frameworks
 
 **Tech Stack:**
@@ -152,7 +152,7 @@ Modern, scalable full-stack applications with cutting-edge frameworks
 </td>
 <td width="33%" align="center">
 
-### ?? AI Solutions
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-eye.svg" width="20" alt="Eye" /> AI Solutions
 Intelligent systems leveraging machine learning and neural networks
 
 **Focus Areas:**
@@ -164,7 +164,7 @@ Intelligent systems leveraging machine learning and neural networks
 </td>
 <td width="34%" align="center">
 
-### ?? Developer Tools
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Developer Tools
 Productivity tools and utilities for the developer community
 
 **Categories:**
@@ -186,7 +186,7 @@ Productivity tools and utilities for the developer community
 
 <div align="center">
 
-## ??? Technology Stack
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="26" alt="Code" /> Technology Stack
 
 </div>
 
@@ -268,7 +268,57 @@ Productivity tools and utilities for the developer community
 
 <div align="center">
 
-## ?? Featured Repositories
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="26" alt="Sparkles" /> Creative Visuals
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="20" alt="Fire" /> Animated GIFs
+
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/1114.gif" width="100%" alt="Creative Animation" />
+
+<p style="color: #a855f7; margin-top: 10px;">
+  <strong>Custom animations</strong> created for visual storytelling
+</p>
+
+</td>
+<td width="50%" align="center">
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="20" alt="Heart" /> Design Elements
+
+<div style="background: rgba(168, 85, 247, 0.1); padding: 20px; border-radius: 12px; border: 2px solid rgba(168, 85, 247, 0.3);">
+
+**Creative Assets:**
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="14" alt="Sparkles" /> Custom SVG Animations
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="14" alt="Star" /> Interactive Visuals
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="14" alt="Rocket" /> Motion Graphics
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-lightning.svg" width="14" alt="Lightning" /> Dynamic Elements
+
+**Design Tools:**
+- Adobe After Effects
+- Figma & Sketch
+- CSS Animations
+- SVG Optimization
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="26" alt="Star" /> Featured Repositories
 
 </div>
 
@@ -301,7 +351,7 @@ Productivity tools and utilities for the developer community
 
 <div align="center">
 
-## ?? Organization Statistics
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="26" alt="Users" /> Organization Statistics
 
 </div>
 
@@ -320,7 +370,7 @@ Productivity tools and utilities for the developer community
 
 <br>
 
-### ?? Activity & Contributions
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="22" alt="Fire" /> Activity & Contributions
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevYukis&custom_title=Organization%20Activity%20Graph&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&area_color=a855f7&hide_border=true" alt="Activity Graph" width="100%" />
 
@@ -335,7 +385,7 @@ Productivity tools and utilities for the developer community
 
 <div align="center">
 
-## ?? Join Our Community
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="26" alt="Heart" /> Join Our Community
 
 </div>
 
@@ -349,25 +399,25 @@ We believe in the power of collaboration and open source. Here's how you can get
 <tr>
 <td align="center" width="25%">
 
-### ?? Star Projects
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="20" alt="Star" /> Star Projects
 Show support by starring repositories you find useful
 
 </td>
 <td align="center" width="25%">
 
-### ?? Contribute
+### 🤝 Contribute
 Submit PRs and help improve our projects
 
 </td>
 <td align="center" width="25%">
 
-### ?? Share Ideas
+### 💡 Share Ideas
 Open issues with suggestions and feedback
 
 </td>
 <td align="center" width="25%">
 
-### ?? Spread the Word
+### 📢 Spread the Word
 Share our work with your network
 
 </td>
@@ -376,7 +426,7 @@ Share our work with your network
 
 <br>
 
-### ?? Connect With Us
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="20" alt="Users" /> Connect With Us
 
 <a href="https://github.com/DevYukis">
   <img src="https://img.shields.io/badge/GitHub-Follow-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
@@ -402,7 +452,7 @@ Share our work with your network
 
 <div align="center">
 
-## ?? Latest Activity
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="26" alt="Fire" /> Latest Activity
 
 </div>
 
@@ -418,7 +468,7 @@ Share our work with your network
 
 <div align="center">
 
-## ?? Professional Services
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="26" alt="Target" /> Professional Services
 
 </div>
 
@@ -432,19 +482,19 @@ Looking for expert development services? We offer:
 <tr>
 <td width="33%" align="center">
 
-### ?? Custom Development
+### 💻 Custom Development
 Full-stack web and mobile applications tailored to your needs
 
 </td>
 <td width="33%" align="center">
 
-### ?? Cloud Solutions
+### ☁️ Cloud Solutions
 Architecture design, migration, and optimization
 
 </td>
 <td width="34%" align="center">
 
-### ?? AI Integration
+### 🤖 AI Integration
 Machine learning models and intelligent systems
 
 </td>
@@ -452,13 +502,13 @@ Machine learning models and intelligent systems
 <tr>
 <td width="33%" align="center">
 
-### ?? Consulting
+### 📊 Consulting
 Technical guidance and best practices
 
 </td>
 <td width="33%" align="center">
 
-### ?? Code Review
+### 🔍 Code Review
 Quality assurance and optimization
 
 </td>
