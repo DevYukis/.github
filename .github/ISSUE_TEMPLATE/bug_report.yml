@@ -1,0 +1,153 @@
+name: 🐛 Relatório de Bug
+description: Reporte um bug ou comportamento inesperado
+title: "[BUG] "
+labels: ["bug", "needs-triage"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🐛 Obrigado por reportar um bug!
+        
+        Por favor, preencha os campos abaixo para nos ajudar a resolver o problema rapidamente.
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist Pré-Envio
+      description: Verifique antes de enviar
+      options:
+        - label: Pesquisei issues existentes e não encontrei duplicata
+          required: true
+        - label: Li a documentação relacionada
+          required: true
+        - label: Estou usando a versão mais recente
+          required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 📝 Descrição do Bug
+      description: Descreva o bug de forma clara e concisa
+      placeholder: O que aconteceu de errado?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 🔄 Passos para Reproduzir
+      description: Como podemos reproduzir o problema?
+      placeholder: |
+        1. Vá para '...'
+        2. Clique em '...'
+        3. Execute '...'
+        4. Veja o erro
+      value: |
+        1. 
+        2. 
+        3. 
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: ✅ Comportamento Esperado
+      description: O que deveria acontecer?
+      placeholder: Descreva o comportamento esperado
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: ❌ Comportamento Atual
+      description: O que está acontecendo?
+      placeholder: Descreva o comportamento atual
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 📸 Screenshots / Logs
+      description: Adicione capturas de tela ou logs de erro
+      placeholder: Cole aqui ou arraste imagens
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: 🔥 Severidade
+      description: Qual o impacto do bug?
+      options:
+        - 🔴 Crítico - Sistema não funciona
+        - 🟠 Alto - Funcionalidade importante quebrada
+        - 🟡 Médio - Funcionalidade menor quebrada
+        - 🟢 Baixo - Problema cosmético
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: 📦 Versão
+      description: Qual versão você está usando?
+      placeholder: v1.0.0
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: 💻 Sistema Operacional
+      options:
+        - Windows 11
+        - Windows 10
+        - macOS Sonoma (14.x)
+        - macOS Ventura (13.x)
+        - macOS Monterey (12.x)
+        - Ubuntu 22.04
+        - Ubuntu 20.04
+        - Debian
+        - Fedora
+        - Arch Linux
+        - Outro
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: 🌐 Navegador (se aplicável)
+      options:
+        - Chrome
+        - Firefox
+        - Safari
+        - Edge
+        - Opera
+        - Brave
+        - Outro
+        - N/A
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: 🔧 Informações do Ambiente
+      description: Informações adicionais sobre seu ambiente
+      placeholder: |
+        - Node.js: v20.0.0
+        - npm: 10.0.0
+        - Python: 3.11
+      render: markdown
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 📋 Contexto Adicional
+      description: Qualquer outra informação relevante
+      placeholder: Adicione qualquer contexto adicional sobre o problema
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: 🙋 Você gostaria de trabalhar neste bug?
+      options:
+        - label: Sim, eu gostaria de submeter um PR para corrigir este bug

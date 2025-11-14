@@ -1,0 +1,59 @@
+name: 📚 Melhoria de Documentação
+description: Sugira melhorias ou correções na documentação
+title: "[DOCS] "
+labels: ["documentation"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📚 Obrigado por ajudar a melhorar nossa documentação!
+
+  - type: dropdown
+    id: doc_type
+    attributes:
+      label: 📖 Tipo de Documentação
+      options:
+        - 📘 README
+        - 📗 API Reference
+        - 📙 Tutorial
+        - 📕 Guia de Instalação
+        - 📓 FAQ
+        - 📔 Changelog
+        - 🔧 Configuração
+        - 💡 Exemplos
+        - 🌍 Tradução
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: ❓ Qual é o Problema?
+      description: O que está confuso, faltando ou incorreto?
+      placeholder: A documentação sobre X não explica como...
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 💡 Sugestão de Melhoria
+      description: Como você melhoraria a documentação?
+      placeholder: Eu sugiro adicionar/modificar...
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: 📍 Localização
+      description: Onde está a documentação que precisa de melhoria?
+      placeholder: docs/getting-started.md linha 42
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 📋 Informações Adicionais
+      description: Qualquer outro contexto ou sugestão

@@ -1,0 +1,80 @@
+# Code Owners
+# Pessoas ou times responsáveis por revisar mudanças em áreas específicas do código
+# Documentação: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Global Owners - Revisam tudo por padrão
+* @SEU_USERNAME
+
+# Documentation
+*.md @SEU_USERNAME
+/docs/ @SEU_USERNAME
+
+# GitHub Actions & CI/CD
+/.github/ @SEU_USERNAME
+/.github/workflows/ @SEU_USERNAME
+
+# Configuration Files
+*.yml @SEU_USERNAME
+*.yaml @SEU_USERNAME
+*.json @SEU_USERNAME
+*.toml @SEU_USERNAME
+.env* @SEU_USERNAME
+
+# Source Code
+/src/ @SEU_USERNAME
+/lib/ @SEU_USERNAME
+
+# Tests
+/tests/ @SEU_USERNAME
+/test/ @SEU_USERNAME
+*.test.* @SEU_USERNAME
+*.spec.* @SEU_USERNAME
+
+# Build & Deploy
+/build/ @SEU_USERNAME
+/dist/ @SEU_USERNAME
+Dockerfile @SEU_USERNAME
+docker-compose.yml @SEU_USERNAME
+
+# Frontend (se aplicável)
+/frontend/ @SEU_USERNAME
+/client/ @SEU_USERNAME
+*.css @SEU_USERNAME
+*.scss @SEU_USERNAME
+*.html @SEU_USERNAME
+*.vue @SEU_USERNAME
+*.jsx @SEU_USERNAME
+*.tsx @SEU_USERNAME
+
+# Backend (se aplicável)
+/backend/ @SEU_USERNAME
+/server/ @SEU_USERNAME
+/api/ @SEU_USERNAME
+
+# Database
+/migrations/ @SEU_USERNAME
+/seeds/ @SEU_USERNAME
+*.sql @SEU_USERNAME
+
+# Scripts
+/scripts/ @SEU_USERNAME
+*.sh @SEU_USERNAME
+*.ps1 @SEU_USERNAME
+
+# Package Management
+package.json @SEU_USERNAME
+package-lock.json @SEU_USERNAME
+yarn.lock @SEU_USERNAME
+pnpm-lock.yaml @SEU_USERNAME
+Gemfile @SEU_USERNAME
+requirements.txt @SEU_USERNAME
+pyproject.toml @SEU_USERNAME
+Cargo.toml @SEU_USERNAME
+go.mod @SEU_USERNAME
+
+# Security
+SECURITY.md @SEU_USERNAME
+/.github/SECURITY.md @SEU_USERNAME
+
+# Dependabot
+/.github/dependabot.yml @SEU_USERNAME

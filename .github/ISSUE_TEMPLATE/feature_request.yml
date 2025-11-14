@@ -1,0 +1,152 @@
+name: ✨ Solicitação de Feature
+description: Sugira uma nova funcionalidade ou melhoria
+title: "[FEATURE] "
+labels: ["enhancement", "needs-discussion"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ✨ Obrigado por sua sugestão!
+        
+        Adoramos receber novas ideias! Por favor, descreva sua sugestão em detalhes.
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist Pré-Envio
+      options:
+        - label: Pesquisei e esta feature não foi solicitada antes
+          required: true
+        - label: Esta feature se alinha com os objetivos do projeto
+          required: true
+        - label: Li o guia de contribuição
+          required: false
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: 🎯 Problema que Resolve
+      description: Qual problema esta feature resolve?
+      placeholder: Estou sempre frustrado quando...
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: 💡 Solução Proposta
+      description: Como você imagina esta feature funcionando?
+      placeholder: Descreva sua solução ideal em detalhes
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 🔄 Alternativas Consideradas
+      description: Você considerou outras soluções?
+      placeholder: Descreva alternativas que você já pensou
+
+  - type: dropdown
+    id: feature_type
+    attributes:
+      label: 📦 Tipo de Feature
+      options:
+        - 🆕 Nova Funcionalidade
+        - 🔧 Melhoria de Funcionalidade Existente
+        - 📚 Documentação
+        - 🎨 UI/UX
+        - ⚡ Performance
+        - 🔐 Segurança
+        - ♿ Acessibilidade
+        - 🌍 Internacionalização
+        - 🧪 Testes
+        - 🏗️ Infraestrutura
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 🔥 Prioridade
+      description: Qual a importância desta feature?
+      options:
+        - 🔴 Alta - Preciso disso urgentemente
+        - 🟠 Média - Seria muito útil
+        - 🟢 Baixa - Nice to have
+    validations:
+      required: true
+
+  - type: textarea
+    id: user_story
+    attributes:
+      label: 📖 User Story
+      description: Descreva como um usuário usaria esta feature
+      placeholder: |
+        Como [tipo de usuário]
+        Eu quero [realizar alguma tarefa]
+        Para que [alcançar algum objetivo]
+      value: |
+        Como [tipo de usuário]
+        Eu quero [realizar alguma tarefa]
+        Para que [alcançar algum objetivo]
+
+  - type: textarea
+    id: acceptance_criteria
+    attributes:
+      label: ✅ Critérios de Aceitação
+      description: Como saberemos que a feature está completa?
+      placeholder: |
+        - [ ] Critério 1
+        - [ ] Critério 2
+        - [ ] Critério 3
+      value: |
+        - [ ] 
+        - [ ] 
+        - [ ] 
+
+  - type: textarea
+    id: mockups
+    attributes:
+      label: 🎨 Mockups / Exemplos
+      description: Adicione mockups, diagramas ou exemplos de código
+      placeholder: Cole imagens ou código de exemplo aqui
+
+  - type: textarea
+    id: technical_details
+    attributes:
+      label: 🔧 Detalhes Técnicos
+      description: Sugestões técnicas de implementação (opcional)
+      placeholder: Se você tem ideias técnicas de como implementar, compartilhe aqui
+      render: markdown
+
+  - type: dropdown
+    id: breaking_change
+    attributes:
+      label: 💥 Breaking Change?
+      description: Esta feature quebraria funcionalidades existentes?
+      options:
+        - ❌ Não
+        - ⚠️ Talvez
+        - ✅ Sim
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 📋 Contexto Adicional
+      description: Qualquer informação adicional
+      placeholder: Links, referências, discussões relacionadas...
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: 🙋 Você gostaria de implementar esta feature?
+      options:
+        - label: Sim, eu gostaria de submeter um PR para implementar esta feature
+        - label: Preciso de orientação sobre como implementar
+        - label: Posso ajudar com testes
+        - label: Posso ajudar com documentação

@@ -1,0 +1,48 @@
+name: ❓ Pergunta / Ajuda
+description: Faça uma pergunta ou peça ajuda
+title: "[QUESTION] "
+labels: ["question", "help-wanted"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ❓ Como podemos ajudar?
+        
+        Antes de perguntar, verifique:
+        - 📚 [Documentação](../wiki)
+        - 💬 [Discussões](../discussions)
+        - 🔍 Issues existentes
+
+  - type: textarea
+    id: question
+    attributes:
+      label: 💭 Sua Pergunta
+      description: Faça sua pergunta de forma clara
+      placeholder: Como eu faço para...?
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: 🔍 Contexto
+      description: Forneça contexto sobre o que você está tentando fazer
+      placeholder: Estou tentando implementar X para alcançar Y...
+
+  - type: textarea
+    id: attempted
+    attributes:
+      label: 🔧 O Que Você Já Tentou?
+      description: Liste o que você já tentou fazer
+      placeholder: |
+        1. Tentei X mas...
+        2. Li sobre Y mas...
+
+  - type: textarea
+    id: code
+    attributes:
+      label: 💻 Código Relevante
+      description: Cole código relevante aqui (se aplicável)
+      render: typescript

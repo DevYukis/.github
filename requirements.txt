@@ -1,0 +1,19 @@
+# Python dependencies for GITNPPP scripts
+
+# Core dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Optional: For data processing
+pandas>=2.0.0
+
+# Optional: For date/time handling
+python-dateutil>=2.8.2
+
+# Optional: For pretty printing
+rich>=13.7.0
+
+# Development dependencies
+black>=23.12.1
+pylint>=3.0.3
+pytest>=7.4.3

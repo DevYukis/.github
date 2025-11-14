@@ -1,0 +1,21 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/SEU_USERNAME/SEU_REPO/discussions
+    about: Para perguntas gerais e discussões da comunidade
+  
+  - name: 💡 Ideas & Suggestions
+    url: https://github.com/SEU_USERNAME/SEU_REPO/discussions/categories/ideas
+    about: Compartilhe ideias e sugestões com a comunidade
+  
+  - name: 🚀 Show & Tell
+    url: https://github.com/SEU_USERNAME/SEU_REPO/discussions/categories/show-and-tell
+    about: Mostre o que você construiu usando este projeto
+  
+  - name: 📖 Documentation
+    url: https://seu-site-docs.com
+    about: Acesse a documentação completa
+  
+  - name: 💬 Discord Community
+    url: https://discord.gg/seu-servidor
+    about: Junte-se à nossa comunidade no Discord

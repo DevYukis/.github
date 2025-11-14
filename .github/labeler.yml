@@ -1,0 +1,67 @@
+# Labeler Configuration
+# Adiciona labels automaticamente baseado nos arquivos modificados
+
+# Documentation
+documentation:
+  - changed-files:
+    - any-glob-to-any-file: ['docs/**/*', '*.md', '.github/**/*.md']
+
+# Frontend
+frontend:
+  - changed-files:
+    - any-glob-to-any-file: ['src/components/**/*', 'src/pages/**/*', 'src/styles/**/*', '**/*.css', '**/*.scss']
+
+# Backend
+backend:
+  - changed-files:
+    - any-glob-to-any-file: ['src/api/**/*', 'src/server/**/*', 'src/services/**/*', 'src/models/**/*']
+
+# Tests
+tests:
+  - changed-files:
+    - any-glob-to-any-file: ['**/*.test.*', '**/*.spec.*', 'tests/**/*', 'test/**/*', '__tests__/**/*']
+
+# CI/CD
+ci/cd:
+  - changed-files:
+    - any-glob-to-any-file: ['.github/workflows/**/*', '.github/actions/**/*', 'Dockerfile', 'docker-compose.yml', '.dockerignore']
+
+# Configuration
+configuration:
+  - changed-files:
+    - any-glob-to-any-file: ['*.json', '*.yml', '*.yaml', '*.toml', '.env*', 'tsconfig.*', '.eslintrc.*', '.prettierrc.*']
+
+# Dependencies
+dependencies:
+  - changed-files:
+    - any-glob-to-any-file: ['package.json', 'package-lock.json', 'yarn.lock', 'pnpm-lock.yaml', 'requirements.txt', 'Gemfile', 'go.mod']
+
+# Security
+security:
+  - changed-files:
+    - any-glob-to-any-file: ['.github/SECURITY.md', 'SECURITY.md', 'src/auth/**/*', 'src/security/**/*']
+
+# Database
+database:
+  - changed-files:
+    - any-glob-to-any-file: ['migrations/**/*', 'seeds/**/*', '**/*.sql', 'prisma/**/*', 'src/database/**/*']
+
+# UI/UX
+ui/ux:
+  - changed-files:
+    - any-glob-to-any-file: ['src/components/**/*', '**/*.css', '**/*.scss', 'public/**/*', 'assets/**/*']
+
+# Performance
+performance:
+  - changed-files:
+    - any-glob-to-any-file: ['src/optimization/**/*', 'src/cache/**/*']
+
+# Accessibility
+accessibility:
+  - changed-files:
+    - any-glob-to-any-file: ['src/a11y/**/*', 'src/accessibility/**/*']
+
+# Internationalization
+i18n:
+  - changed-files:
+    - any-glob-to-any-file: ['src/i18n/**/*', 'locales/**/*', 'translations/**/*', '**/*.i18n.*']
