@@ -1,23 +1,18 @@
-Ôªø<div align="center">
+<div align="center">
 
-<!-- Organization Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=200&section=header&text=DevYukis&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<!-- Dynamic Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+profile;Full+Stack+Developer;Building+the+future+with+code" alt="Typing SVG">
-</a>
+<!-- Logo personalizado -->
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/devyukis-logo.svg" alt="DevYukis" />
 
 <br><br>
 
-<!-- Profile Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=DevYukis&color=a855f7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DevYukis?style=for-the-badge&logo=github&color=a855f7" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Focus-Innovation-a855f7?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
-</p>
+<!-- Badge de visitantes simples -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DevYukis.github&left_color=grey&right_color=a855f7&left_text=visits" alt="Visitors" />
+
+<br><br>
 
 </div>
 
@@ -28,94 +23,152 @@
 
 <br>
 
-## <img src="./assets/emojis/purple-code.svg" width="28" alt="Code" /> About Me
+<img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&letterSpacing=1.5px&pause=1000&color=A855F7&center=true&vCenter=true&width=1080&height=120&lines=Hi!+I'm+Nikolas+Ribeiro" alt="Typing SVG" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" width="30" /> Hi there! I'm **DevYukis** ñ a full-stack developer passionate about building scalable applications and innovative solutions. This is my personal GitHub profile where I share open-source projects, technical resources, and hands-on experiences in web development, cloud computing, and AI.
 
-### <img src="./assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> Who Am I
+<br>
 
-```typescript
-const nikolas = {
-  name: "Nikolas Ribeiro",
-  role: "Full Stack Developer",
-  location: "S√£o Paulo, Brazil",
-  email: "nickschunck17@gmail.com",
-  website: "architect.guarasal.com",
-  
-  focus: [
-    "Building scalable applications",
-    "Clean code architecture",
-    "Performance optimization"
-  ],
-  
-  currentlyLearning: [
-    "Microservices",
-    "System Design",
-    "AI Integration"
-  ]
-};
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### <img src="./assets/emojis/purple-fire.svg" width="18" alt="Fire" /> What I Do
+<br>
 
-- <img src="./assets/emojis/purple-code.svg" width="14" alt="Code" /> **Develop** robust full-stack applications
-- <img src="./assets/emojis/purple-sparkles.svg" width="14" alt="Sparkles" /> **Design** intuitive user interfaces
-- <img src="./assets/emojis/purple-target.svg" width="14" alt="Target" /> **Architect** cloud-native solutions
-- <img src="./assets/emojis/purple-lightning.svg" width="14" alt="Lightning" /> **Optimize** performance & scalability
+## <img src="https://i.postimg.cc/SQ58WmGm/Male-Avatar.gif" width="30" /> About Me
 
-</td>
-<td width="50%" valign="top">
+ï <img src="https://i.postimg.cc/sxDxyghW/Graduation-Cap.gif" width="20" /> Full-stack developer & software architect ñ currently exploring cloud-native architectures, microservices, and AI integration.
 
-### <img src="./assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Tech Stack
+ï <img src="https://i.postimg.cc/4NRZzddQ/Light-Bulb.gif" width="20" /> I love building beautiful, practical tools ó from small utilities to full-scale enterprise systems.
 
-**Frontend**
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> React, Vue.js, Next.js
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> TypeScript, JavaScript
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> TailwindCSS, SCSS
+ï <img src="https://i.postimg.cc/wB8hzDTs/Note.gif" width="20" /> My mission: To contribute to innovative technology solutions and share knowledge with the developer community.
 
-**Backend**
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> Node.js, Express
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> Python, Django, Flask
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> C#, .NET, Laravel
+<br>
 
-**Database & Cloud**
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> PostgreSQL, MySQL, MongoDB
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> AWS, Azure, Google Cloud
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> Docker, Kubernetes, Nginx
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**Tools & Others**
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> Git, GitLab, GitHub Actions
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> REST APIs, GraphQL
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> TensorFlow, PyTorch
+<br>
 
-</td>
-</tr>
-</table>
+## <img src="https://i.postimg.cc/rFQDgbHm/Gears.gif" width="28" /> My Core Skills
 
-### <img src="./assets/emojis/purple-heart.svg" width="20" alt="Heart" /> Philosophy
+###  <img src="https://i.postimg.cc/jq9fbMpv/Layer.gif" width="20" /> Development Tools & Languages
 
-> <img src="./assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" /> *"Great code is not just about making it work, but making it maintainable, scalable, and elegant."*
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
+<a href="https://github.com/"><img src="https://i.postimg.cc/P5Tjcj5D/Github.gif" width="40" height="40" alt="GitHub" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#" /></a>
+<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" /></a>
 
-I believe in writing code that not only solves today's problems but is also prepared for tomorrow's challenges.
+###  <img src="https://i.postimg.cc/DfP2Q6h5/Clock-Loading.gif" width="20" /> Web, Cloud & Frameworks
 
-<hr>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /></a>
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /></a>
+<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue.js" /></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="TailwindCSS" /></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a>
+<a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure" /></a>
+<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /></a>
+<a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="GCP" /></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt=".NET" /></a>
+<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" /></a>
 
-## <img src="./assets/emojis/purple-target.svg" width="24" alt="Target" /> Current Goals
+###  <img src="https://i.postimg.cc/7YC9kGf8/Magnetic-Board.gif" width="20" /> Database & DevOps
+
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /></a>
+<a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" /></a>
+<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" /></a>
+<a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" /></a>
+<a href="https://www.nginx.com/"><img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx" /></a>
+<a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="GitLab" /></a>
+
+### <img src="https://i.postimg.cc/76sRKFQg/Cloud-Download.gif" width="20" /> AI & Data Science
+
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /></a>
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /></a>
+<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" alt="Jupyter" /></a>
+<a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Pandas" /></a>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://i.postimg.cc/9QX1Dv6Y/Checklist.gif" width="28" /> Featured Projects
+
+**Smart Web Platform** ó A modern full-stack platform for enterprise applications  
+*Technologies:* React, Next.js, Node.js, PostgreSQL, Azure
+
+**AI Assistant** ó Intelligent assistant with NLP capabilities  
+*Technologies:* Python, TensorFlow, OpenAI API, FastAPI
+
+**Cloud Infrastructure** ó Automated cloud deployment and management tools  
+*Technologies:* Terraform, Docker, Kubernetes, AWS
+
+**Dev Toolkit** ó Collection of developer productivity tools  
+*Technologies:* TypeScript, Electron, VS Code Extension API
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://i.postimg.cc/vH2J0Z8K/Github.gif" width="28" /> GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevYukis&custom_title=DevYukis%20Activity%20Graph&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&area_color=a855f7&hide_border=true" alt="Activity Graph" width="100%" />
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://i.postimg.cc/027SfbCk/File-Searching.gif" width="28" /> What You'll Find Here
+
+ï <img src="https://i.postimg.cc/Fz9ztmdB/Book.gif" width="16" /> Source code from both academic and real-world projects.
+
+ï <img src="https://i.postimg.cc/9QF5cg1v/Ai-Service.gif" width="16" /> Articles and insights about web development, cloud computing, AI/ML, and modern software architecture.
+
+ï <img src="https://i.postimg.cc/dt93WXLX/Filter.gif" width="16" /> Self-developed tools, VS Code extensions, and automation scripts.
+
+ï <img src="https://i.postimg.cc/J4FvW7TB/share.gif" width="16" /> Community resources and open-source contributions.
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://i.postimg.cc/1zM6x2gf/Blue-Heart.gif" width="28" /> Connect with Me
+
+ï <img src="https://i.postimg.cc/y6Rmxftr/Gmail.gif" width="16" /> Email: `nickschunck17@gmail.com`
+
+ï <img src="https://i.postimg.cc/tCw76y63/Globe-Showing-Europe-Africa.gif" width="16" /> Website: [architect.guarasal.com](https://architect.guarasal.com/)
+
+ï <img src="https://i.postimg.cc/15B1xKmf/Chat.gif" width="16" /> Feel free to open an issue or pull request if you'd like to collaborate or ask questions!
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+> <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="16" /> *"I believe that knowledge should be shared ó let's learn and grow together."* ó DevYukis <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="16" />
+
+<br>
 
 <div align="center">
 
-- Master system design and microservices architecture
-- Contribute more to open source projects
-- Share knowledge through technical writing
-- Mentor aspiring developers
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=100&section=footer" width="100%" />
 
 </div>
-
-<hr>
-
-## üí´ Fun Fact
 
 <div align="center">
 
@@ -405,19 +458,19 @@ Show support by starring repositories you find useful
 </td>
 <td align="center" width="25%">
 
-### ü§ù Contribute
+### ?? Contribute
 Submit PRs and help improve our projects
 
 </td>
 <td align="center" width="25%">
 
-### üí° Share Ideas
+### ?? Share Ideas
 Open issues with suggestions and feedback
 
 </td>
 <td align="center" width="25%">
 
-### üì¢ Spread the Word
+### ?? Spread the Word
 Share our work with your network
 
 </td>
@@ -482,19 +535,19 @@ Looking for expert development services? We offer:
 <tr>
 <td width="33%" align="center">
 
-### üíª Custom Development
+### ?? Custom Development
 Full-stack web and mobile applications tailored to your needs
 
 </td>
 <td width="33%" align="center">
 
-### ‚òÅÔ∏è Cloud Solutions
+### ?? Cloud Solutions
 Architecture design, migration, and optimization
 
 </td>
 <td width="34%" align="center">
 
-### ü§ñ AI Integration
+### ?? AI Integration
 Machine learning models and intelligent systems
 
 </td>
@@ -502,13 +555,13 @@ Machine learning models and intelligent systems
 <tr>
 <td width="33%" align="center">
 
-### üìä Consulting
+### ?? Consulting
 Technical guidance and best practices
 
 </td>
 <td width="33%" align="center">
 
-### üîç Code Review
+### ?? Code Review
 Quality assurance and optimization
 
 </td>
@@ -584,7 +637,7 @@ Workshops and technical mentoring
   <img src="https://img.shields.io/badge/Open_Source-Forever-a855f7?style=flat-square" alt="Open Source" />
 </p>
 
-**ÔøΩ 2025 DevYukis ÔøΩ Transforming Ideas Into Digital Reality** ??
+**? 2025 DevYukis ? Transforming Ideas Into Digital Reality** ??
 
 </div>
 
@@ -639,7 +692,6 @@ Workshops and technical mentoring
 
 </div>
 
-<hr>
 
 ## GitHub Trophies
 
@@ -647,7 +699,6 @@ Workshops and technical mentoring
   <img src="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="trophies" />
 </div>
 
-<hr>
 
 ## Connect With Me
 
@@ -666,7 +717,6 @@ Workshops and technical mentoring
   </a>
 </div>
 
-<hr>
 
 ## Recent Projects
 
@@ -676,7 +726,6 @@ _Projects coming soon..._
 
 </div>
 
-<hr>
 
 ## Contribution Activity
 
@@ -689,7 +738,6 @@ _Projects coming soon..._
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevYukis/DevYukis/output/github-contribution-grid-snake.svg">
 </picture>
 
-<hr>
 
 <div align="center">
   
@@ -699,7 +747,6 @@ _Projects coming soon..._
 
 </div>
 
-<hr>
 
 <div align="center">
   
@@ -717,7 +764,6 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 </div>
 
-<hr>
 
 <div align="center">
   
