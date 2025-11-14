@@ -1,4 +1,4 @@
-<div align="center">
+Ôªø<div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -25,7 +25,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&letterSpacing=1.5px&pause=1000&color=A855F7&center=true&vCenter=true&width=1080&height=120&lines=Hi!+I'm+Nikolas+Ribeiro" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" width="30" /> Hi there! I'm **DevYukis** ñ a full-stack developer passionate about building scalable applications and innovative solutions. This is my personal GitHub profile where I share open-source projects, technical resources, and hands-on experiences in web development, cloud computing, and AI.
+<img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" width="30" /> Hi there! I'm **DevYukis** ÔøΩ a full-stack developer passionate about building scalable applications and innovative solutions. This is my personal GitHub profile where I share open-source projects, technical resources, and hands-on experiences in web development, cloud computing, and AI.
 
 <br>
 
@@ -33,13 +33,13 @@
 
 <br>
 
-## <img src="https://i.postimg.cc/SQ58WmGm/Male-Avatar.gif" width="30" /> About Me
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="30" alt="Users" /> About Me
 
-ï <img src="https://i.postimg.cc/sxDxyghW/Graduation-Cap.gif" width="20" /> Full-stack developer & software architect ñ currently exploring cloud-native architectures, microservices, and AI integration.
+üéì <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Full-stack developer & software architect ‚Äî currently exploring cloud-native architectures, microservices, and AI integration.
 
-ï <img src="https://i.postimg.cc/4NRZzddQ/Light-Bulb.gif" width="20" /> I love building beautiful, practical tools ó from small utilities to full-scale enterprise systems.
+üí° <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> I love building beautiful, practical tools ‚Äî from small utilities to full-scale enterprise systems.
 
-ï <img src="https://i.postimg.cc/wB8hzDTs/Note.gif" width="20" /> My mission: To contribute to innovative technology solutions and share knowledge with the developer community.
+‚úçÔ∏è <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="20" alt="Star" /> My mission: To contribute to innovative technology solutions and share knowledge with the developer community.
 
 <br>
 
@@ -47,12 +47,14 @@
 
 <br>
 
-## <img src="https://i.postimg.cc/rFQDgbHm/Gears.gif" width="28" /> My Core Skills
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="28" alt="Code" /> My Core Skills
 
-###  <img src="https://i.postimg.cc/jq9fbMpv/Layer.gif" width="20" /> Development Tools & Languages
+<div align="center">
+
+###  <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Development Tools & Languages
 
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
-<a href="https://github.com/"><img src="https://i.postimg.cc/P5Tjcj5D/Github.gif" width="40" height="40" alt="GitHub" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript" /></a>
@@ -60,7 +62,7 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#" /></a>
 <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" /></a>
 
-###  <img src="https://i.postimg.cc/DfP2Q6h5/Clock-Loading.gif" width="20" /> Web, Cloud & Frameworks
+###  <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> Web, Cloud & Frameworks
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" /></a>
@@ -76,7 +78,7 @@
 <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt=".NET" /></a>
 <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" /></a>
 
-###  <img src="https://i.postimg.cc/7YC9kGf8/Magnetic-Board.gif" width="20" /> Database & DevOps
+###  <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="20" alt="Target" /> Database & DevOps
 
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" /></a>
@@ -87,12 +89,14 @@
 <a href="https://www.nginx.com/"><img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx" /></a>
 <a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="GitLab" /></a>
 
-### <img src="https://i.postimg.cc/76sRKFQg/Cloud-Download.gif" width="20" /> AI & Data Science
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-eye.svg" width="20" alt="Eye" /> AI & Data Science
 
 <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /></a>
 <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /></a>
 <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" alt="Jupyter" /></a>
-<a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Pandas" /></a>
+<a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" alt="NumPy" /></a>
+
+</div>
 
 <br>
 
@@ -100,18 +104,18 @@
 
 <br>
 
-## <img src="https://i.postimg.cc/9QX1Dv6Y/Checklist.gif" width="28" /> Featured Projects
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="28" alt="Star" /> Featured Projects
 
-**Smart Web Platform** ó A modern full-stack platform for enterprise applications  
+**Smart Web Platform** ‚Äî A modern full-stack platform for enterprise applications  
 *Technologies:* React, Next.js, Node.js, PostgreSQL, Azure
 
-**AI Assistant** ó Intelligent assistant with NLP capabilities  
+**AI Assistant** ‚Äî Intelligent assistant with NLP capabilities  
 *Technologies:* Python, TensorFlow, OpenAI API, FastAPI
 
-**Cloud Infrastructure** ó Automated cloud deployment and management tools  
+**Cloud Infrastructure** ‚Äî Automated cloud deployment and management tools  
 *Technologies:* Terraform, Docker, Kubernetes, AWS
 
-**Dev Toolkit** ó Collection of developer productivity tools  
+**Dev Toolkit** ‚Äî Collection of developer productivity tools  
 *Technologies:* TypeScript, Electron, VS Code Extension API
 
 <br>
@@ -120,7 +124,7 @@
 
 <br>
 
-## <img src="https://i.postimg.cc/vH2J0Z8K/Github.gif" width="28" /> GitHub Activity
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="28" alt="Code" /> GitHub Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevYukis&custom_title=DevYukis%20Activity%20Graph&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&area_color=a855f7&hide_border=true" alt="Activity Graph" width="100%" />
 
@@ -130,29 +134,15 @@
 
 <br>
 
-## <img src="https://i.postimg.cc/027SfbCk/File-Searching.gif" width="28" /> What You'll Find Here
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-eye.svg" width="28" alt="Eye" /> What You'll Find Here
 
-ï <img src="https://i.postimg.cc/Fz9ztmdB/Book.gif" width="16" /> Source code from both academic and real-world projects.
+üìö <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="16" alt="Code" /> Source code from both academic and real-world projects.
 
-ï <img src="https://i.postimg.cc/9QF5cg1v/Ai-Service.gif" width="16" /> Articles and insights about web development, cloud computing, AI/ML, and modern software architecture.
+ü§ñ <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-lightning.svg" width="16" alt="Lightning" /> Articles and insights about web development, cloud computing, AI/ML, and modern software architecture.
 
-ï <img src="https://i.postimg.cc/dt93WXLX/Filter.gif" width="16" /> Self-developed tools, VS Code extensions, and automation scripts.
+üõ†Ô∏è <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="16" alt="Fire" /> Self-developed tools, VS Code extensions, and automation scripts.
 
-ï <img src="https://i.postimg.cc/J4FvW7TB/share.gif" width="16" /> Community resources and open-source contributions.
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## <img src="https://i.postimg.cc/1zM6x2gf/Blue-Heart.gif" width="28" /> Connect with Me
-
-ï <img src="https://i.postimg.cc/y6Rmxftr/Gmail.gif" width="16" /> Email: `nickschunck17@gmail.com`
-
-ï <img src="https://i.postimg.cc/tCw76y63/Globe-Showing-Europe-Africa.gif" width="16" /> Website: [architect.guarasal.com](https://architect.guarasal.com/)
-
-ï <img src="https://i.postimg.cc/15B1xKmf/Chat.gif" width="16" /> Feel free to open an issue or pull request if you'd like to collaborate or ask questions!
+üåê <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" /> Community resources and open-source contributions.
 
 <br>
 
@@ -160,7 +150,21 @@
 
 <br>
 
-> <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="16" /> *"I believe that knowledge should be shared ó let's learn and grow together."* ó DevYukis <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="16" />
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="28" alt="Heart" /> Connect with Me
+
+üìß <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-lightning.svg" width="16" alt="Lightning" /> Email: `nickschunck17@gmail.com`
+
+üåç <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="16" alt="Target" /> Website: [architect.guarasal.com](https://architect.guarasal.com/)
+
+üí¨ <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" /> Feel free to open an issue or pull request if you'd like to collaborate or ask questions!
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" /> *"I believe that knowledge should be shared ‚Äî let's learn and grow together."* ‚Äî DevYukis <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" />
 
 <br>
 
