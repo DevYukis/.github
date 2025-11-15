@@ -95,6 +95,18 @@
 <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /></a>
 <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" alt="Jupyter" /></a>
 <a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" alt="NumPy" /></a>
+<a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex" width="40" height="40" alt="LaTeX" /></a>
+<a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=markdown" width="40" height="40" alt="Markdown" /></a>
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-lightning.svg" width="20" alt="Lightning" /> Hardware, OS & Utilities
+
+<a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" alt="Arduino" /></a>
+<a href="https://www.raspberrypi.org/"><img src="https://skillicons.dev/icons?i=raspberrypi" width="40" height="40" alt="Raspberry Pi" /></a>
+<a href="https://learn.microsoft.com/en-us/cpp/"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" /></a>
+<a href="https://www.apple.com/"><img src="https://skillicons.dev/icons?i=apple" width="40" height="40" alt="Apple" /></a>
+<a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="Ubuntu" /></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /></a>
+<a href="https://www.powershellgallery.com/"><img src="https://skillicons.dev/icons?i=powershell" width="40" height="40" alt="PowerShell" /></a>
 
 </div>
 
@@ -628,55 +640,6 @@ Workshops and technical mentoring
 </p>
 
 **© 2025 DevYukis • Transforming Ideas Into Digital Reality** ✨
-
-</div>
-
-</div>
-
-### Hardware, OS & Utilities
-
-<div align="center">
-
-<a href="https://www.arduino.cc/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="Arduino" />
-</a>
-<a href="https://www.raspberrypi.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="50" alt="Raspberry Pi" />
-</a>
-<a href="https://learn.microsoft.com/en-us/cpp/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
-</a>
-<a href="https://www.apple.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=apple" height="50" alt="Apple" />
-</a>
-<a href="https://ubuntu.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="Ubuntu" />
-</a>
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
-</a>
-<a href="https://www.powershellgallery.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="PowerShell" />
-</a>
-
-</div>
-
-### AI & Writing
-
-<div align="center">
-
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" />
-</a>
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" />
-</a>
-<a href="https://www.latex-project.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=latex" height="50" alt="LaTeX" />
-</a>
-<a href="https://www.markdownguide.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="Markdown" />
-</a>
 
 </div>
 
