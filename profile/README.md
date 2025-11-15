@@ -767,12 +767,14 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <br>
 
-<!-- Status atual da Steam -->
-<a href="https://steamcommunity.com/id/DevYuki/">
-  <img src="https://steam-badge.vercel.app/api/steam/user/76561198966933358" alt="Steam Status" />
-</a>
+<!-- Coming Soon Box -->
+<div style="border: 2px solid #a855f7; border-radius: 15px; padding: 60px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); max-width: 600px; margin: 20px auto;">
+  <h2 style="color: #a855f7; font-size: 48px; margin: 0;">🎨</h2>
+  <h3 style="color: #c084fc; margin: 20px 0 10px 0;">COMING SOON</h3>
+  <p style="color: #9ca3af; font-size: 14px;">Amazing artwork and animations on the way!</p>
+</div>
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://steamcommunity.com/id/DevYuki/">
@@ -782,29 +784,69 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <br>
 
-<!-- Grid de artes -->
+<p><i>🎮 Check out more artwork on my <a href="https://steamcommunity.com/id/DevYuki/">Steam Profile</a></i></p>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## 🎮 Favorite Games
+
+<div align="center">
+
+<p>✨ <b>My gaming collection</b> — the games that inspire and entertain me ✨</p>
+
+<br>
+
+<!-- Grid de jogos estilo Discord/A4 -->
 <table>
   <tr>
-    <td width="50%">
-      <img src="https://via.placeholder.com/500x300/a855f7/ffffff?text=Artwork+1" width="100%" alt="Artwork 1" />
+    <td width="25%" align="center">
+      <div style="background: #2b2d31; border-radius: 12px; padding: 15px; border: 2px solid #404249;">
+        <div style="background: linear-gradient(135deg, #a855f7 0%, #6366f1 100%); height: 200px; border-radius: 8px; display: flex; align-items: center; justify-content: center;">
+          <h2 style="color: white; margin: 0;">🎮</h2>
+        </div>
+        <h4 style="color: #c084fc; margin: 15px 0 5px 0;">COMING SOON</h4>
+        <p style="color: #9ca3af; font-size: 12px; margin: 0;">Game 1</p>
+      </div>
     </td>
-    <td width="50%">
-      <img src="https://via.placeholder.com/500x300/6366f1/ffffff?text=Artwork+2" width="100%" alt="Artwork 2" />
+    <td width="25%" align="center">
+      <div style="background: #2b2d31; border-radius: 12px; padding: 15px; border: 2px solid #404249;">
+        <div style="background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%); height: 200px; border-radius: 8px; display: flex; align-items: center; justify-content: center;">
+          <h2 style="color: white; margin: 0;">🎮</h2>
+        </div>
+        <h4 style="color: #c084fc; margin: 15px 0 5px 0;">COMING SOON</h4>
+        <p style="color: #9ca3af; font-size: 12px; margin: 0;">Game 2</p>
+      </div>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://via.placeholder.com/500x300/8b5cf6/ffffff?text=Artwork+3" width="100%" alt="Artwork 3" />
+    <td width="25%" align="center">
+      <div style="background: #2b2d31; border-radius: 12px; padding: 15px; border: 2px solid #404249;">
+        <div style="background: linear-gradient(135deg, #8b5cf6 0%, #a855f7 100%); height: 200px; border-radius: 8px; display: flex; align-items: center; justify-content: center;">
+          <h2 style="color: white; margin: 0;">🎮</h2>
+        </div>
+        <h4 style="color: #c084fc; margin: 15px 0 5px 0;">COMING SOON</h4>
+        <p style="color: #9ca3af; font-size: 12px; margin: 0;">Game 3</p>
+      </div>
     </td>
-    <td width="50%">
-      <img src="https://via.placeholder.com/500x300/c084fc/ffffff?text=Artwork+4" width="100%" alt="Artwork 4" />
+    <td width="25%" align="center">
+      <div style="background: #2b2d31; border-radius: 12px; padding: 15px; border: 2px solid #404249;">
+        <div style="background: linear-gradient(135deg, #c084fc 0%, #a855f7 100%); height: 200px; border-radius: 8px; display: flex; align-items: center; justify-content: center;">
+          <h2 style="color: white; margin: 0;">🎮</h2>
+        </div>
+        <h4 style="color: #c084fc; margin: 15px 0 5px 0;">COMING SOON</h4>
+        <p style="color: #9ca3af; font-size: 12px; margin: 0;">Game 4</p>
+      </div>
     </td>
   </tr>
 </table>
 
 <br>
 
-<p><i>🎮 Check out more artwork on my <a href="https://steamcommunity.com/id/DevYuki/">Steam Profile</a></i></p>
+<p><i>🕹️ My favorite games showcase — where virtual worlds come alive</i></p>
 
 </div>
 
