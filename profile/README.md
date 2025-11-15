@@ -102,8 +102,8 @@
 
 <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /></a>
 <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /></a>
-<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" alt="Jupyter" /></a>
-<a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" alt="NumPy" /></a>
+<a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter" /></a>
+<a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /></a>
 <a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex" width="40" height="40" alt="LaTeX" /></a>
 <a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=markdown" width="40" height="40" alt="Markdown" /></a>
 
