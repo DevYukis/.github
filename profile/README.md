@@ -769,7 +769,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <!-- Status atual da Steam -->
 <a href="https://steamcommunity.com/id/DevYuki/">
-  <img src="https://steam-status-badge.vercel.app/api/status/76561198966933358" alt="Steam Status" />
+  <img src="https://steam-badge.vercel.app/api/steam/user/76561198966933358" alt="Steam Status" />
 </a>
 
 <br><br>
