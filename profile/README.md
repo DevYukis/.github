@@ -124,14 +124,31 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="28" alt="Code" /> GitHub Activity
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="28" alt="Users" /> Organization Statistics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevYukis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevYukis&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
+<br>
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="22" alt="Fire" /> Activity & Contributions
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevYukis&custom_title=DevYukis%20Activity%20Graph&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&area_color=a855f7&hide_border=true" alt="Activity Graph" width="100%" />
 
 <br>
 
-<div align="center">
 <img src="https://raw.githubusercontent.com/gugs881/gugs881/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" width="100%" />
+
 </div>
 
 <br>
@@ -406,43 +423,6 @@ Productivity tools and utilities for the developer community
 </div>
 
 <br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="26" alt="Users" /> Organization Statistics
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevYukis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevYukis&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
-<br>
-
-### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="22" alt="Fire" /> Activity & Contributions
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevYukis&custom_title=Organization%20Activity%20Graph&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&area_color=a855f7&hide_border=true" alt="Activity Graph" width="100%" />
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
