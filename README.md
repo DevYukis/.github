@@ -1,580 +1,638 @@
 <div align="center">
 
 <!-- Organization Header with Custom Purple Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,33&height=200&section=header&text=DevYukis&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=✨%20Transforming%20Ideas%20Into%20Digital%20Reality%20✨&descSize=20&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,33&height=200&section=header&text=GITNPPP&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=GitHub%20Profile%20Perfection%20Package&descSize=20&descAlignY=55" width="100%" />
 
 <br>
 
-<!-- Dynamic Typing with Purple Theme -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=🎯+Welcome+to+my+profile;💻+Full+Stack+Developer;🚀+Building+the+future+with+code;✨+Innovation+%7C+Quality+%7C+Performance" alt="Typing SVG">
+<!-- Logo Personalizado -->
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/devyukis-logo.svg" alt="DevYukis" width="400" />
+
+<br><br>
+
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/version-1.0.0-a855f7?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/badge/license-MIT-a855f7?style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/status-active-a855f7?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/made_with-💜-a855f7?style=for-the-badge" alt="Made with love" />
+</p>
+
+**O template de perfil GitHub mais completo e automatizado que você vai encontrar**
+
+[Quick Start](#-quick-start) • [Recursos](#-recursos) • [Instalação](#-instalação) • [Documentação](#-documentação)
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="28" alt="Sparkles" /> Sobre o Projeto
+
+**GITNPPP** (GitHub Profile Perfection Package) é um template profissional e completo para criar perfis GitHub impressionantes. Com automações avançadas, CI/CD integrado e design moderno, este projeto oferece tudo que você precisa para destacar seu perfil.
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="20" alt="Target" /> Por que usar?
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="20" alt="Rocket" />
+**Pronto para Usar**
+
+Configure em 5 minutos com nosso guia rápido
+
+</td>
+<td width="25%" align="center">
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="20" alt="Code" />
+**100% Automatizado**
+
+GitHub Actions cuidam de tudo automaticamente
+
+</td>
+<td width="25%" align="center">
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="20" alt="Fire" />
+**Visual Premium**
+
+Design moderno com animações e tema roxo
+
+</td>
+<td width="25%" align="center">
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="20" alt="Heart" />
+**Open Source**
+
+Completamente gratuito e personalizável
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="28" alt="Star" /> Recursos
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-eye.svg" width="22" alt="Eye" /> Componentes Visuais
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Design Profissional**
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="14" alt="Sparkles" /> Headers animados com wave effects
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="14" alt="Sparkles" /> Logo personalizado animado com gradiente roxo
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="14" alt="Sparkles" /> Typing effect para mensagens dinâmicas
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="14" alt="Sparkles" /> 10 emojis SVG personalizados com animações
+
+**Estatísticas em Tempo Real**
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="14" alt="Fire" /> GitHub Stats cards com tema roxo
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="14" alt="Fire" /> Streak stats para contribuições
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="14" alt="Fire" /> Activity graph detalhado
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="14" alt="Fire" /> Contribution snake animation
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="14" alt="Fire" /> Pacman contribution graph
+
+</td>
+<td width="50%" valign="top">
+
+**Showcase de Projetos**
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="14" alt="Target" /> Cards de repositórios destacados
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="14" alt="Target" /> GitHub Trophies
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="14" alt="Target" /> Linguagens mais usadas
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="14" alt="Target" /> Top repositories pinados
+
+**Integração de Skills**
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="14" alt="Rocket" /> Skill icons organizados por categoria
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="14" alt="Rocket" /> Technology stack visual
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="14" alt="Rocket" /> Links para documentações oficiais
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="14" alt="Rocket" /> Badges personalizados
+
+</td>
+</tr>
+</table>
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-lightning.svg" width="22" alt="Lightning" /> Automações GitHub Actions
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**CI/CD Completo**
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="14" alt="Code" /> Lint e format check
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="14" alt="Code" /> Type checking (TypeScript)
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="14" alt="Code" /> Unit tests (Node 18, 20, 22)
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="14" alt="Code" /> Build verification
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="14" alt="Code" /> Performance tests
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="14" alt="Code" /> E2E tests
+
+</td>
+<td width="33%" valign="top">
+
+**Segurança**
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="14" alt="Target" /> CodeQL analysis
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="14" alt="Target" /> Dependency review
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="14" alt="Target" /> Security audit
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="14" alt="Target" /> Secret scanning
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="14" alt="Target" /> Vulnerability alerts
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="14" alt="Target" /> Auto patch updates
+
+</td>
+<td width="34%" valign="top">
+
+**Manutenção**
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="14" alt="Heart" /> Auto-update stats diário
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="14" alt="Heart" /> WakaTime integration
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="14" alt="Heart" /> Activity feed update
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="14" alt="Heart" /> Stale issue manager
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="14" alt="Heart" /> Auto-labeling
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="14" alt="Heart" /> Welcome bot
+
+</td>
+</tr>
+</table>
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="22" alt="Users" /> Gestão de Comunidade
+
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="14" alt="Star" /> **Templates de Issues**: Bug report, feature request, documentation, questions
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="14" alt="Star" /> **Pull Request Template**: Estrutura profissional para PRs
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="14" alt="Star" /> **Code of Conduct**: Diretrizes para comportamento
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="14" alt="Star" /> **Contributing Guide**: Instruções detalhadas para contribuir
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="14" alt="Star" /> **Security Policy**: Processo para reportar vulnerabilidades
+- <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="14" alt="Star" /> **CODEOWNERS**: Atribuição automática de reviewers
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="28" alt="Rocket" /> Quick Start
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="20" alt="Fire" /> Instalação Rápida (5 minutos)
+
+**1. Crie o Repositório**
+```bash
+# No GitHub:
+# - Clique em "+" → "New repository"
+# - Nome: SEU_USERNAME (mesmo nome do seu usuário!)
+# - Visibilidade: Public
+# - Marque "Add a README file"
+# - Create repository
+```
+
+**2. Clone e Configure**
+```powershell
+# Clone o repositório
+git clone https://github.com/SEU_USERNAME/SEU_USERNAME.git
+cd SEU_USERNAME
+
+# Copie todos os arquivos deste projeto
+# (ou faça fork e clone diretamente)
+```
+
+**3. Personalize**
+
+Edite o `README.md` e substitua:
+- `DevYukis` → seu username
+- `Nikolas Ribeiro` → seu nome
+- Links de redes sociais
+- Skills e tecnologias
+
+**4. Push e Pronto!**
+```powershell
+git add .
+git commit -m "feat: setup awesome github profile"
+git push
+```
+
+Acesse `https://github.com/SEU_USERNAME` e veja a mágica acontecer! <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" />
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="28" alt="Target" /> Estrutura do Projeto
+
+```
+GITNPPP/
+├── .github/                          # Configurações GitHub
+│   ├── workflows/                   # GitHub Actions (13 automações)
+│   │   ├── ci.yml                  # Pipeline CI/CD completo
+│   │   ├── snake.yml               # Animação cobra de contribuições
+│   │   ├── update-activity.yml     # Atualiza feed de atividades
+│   │   ├── update-wakatime.yml     # Integração WakaTime
+│   │   ├── auto-label.yml          # Labels automáticas
+│   │   ├── welcome.yml             # Bot de boas-vindas
+│   │   ├── stale.yml               # Gerencia issues/PRs inativos
+│   │   ├── release.yml             # Automação de releases
+│   │   ├── security-advanced.yml   # Scan de segurança
+│   │   ├── coverage.yml            # Cobertura de código
+│   │   ├── performance.yml         # Testes de performance
+│   │   ├── auto-update-deps.yml    # Atualiza dependências
+│   │   └── auto-merge-dependabot.yml # Auto-merge seguro
+│   │
+│   ├── ISSUE_TEMPLATE/             # Templates de issues
+│   │   ├── bug_report.yml
+│   │   ├── feature_request.yml
+│   │   ├── documentation.yml
+│   │   ├── question.yml
+│   │   └── config.yml
+│   │
+│   ├── CODE_OF_CONDUCT.md          # Código de conduta
+│   ├── CONTRIBUTING.md             # Guia de contribuição
+│   ├── SECURITY.md                 # Política de segurança
+│   ├── PULL_REQUEST_TEMPLATE.md   # Template de PR
+│   ├── CODEOWNERS                  # Responsáveis por código
+│   ├── dependabot.yml              # Config Dependabot
+│   └── labeler.yml                 # Config de labels
+│
+├── profile/                         # Profile da organização
+│   └── README.md                   # README do profile organizacional
+│
+├── assets/                          # Recursos estáticos
+│   ├── devyukis-logo.svg          # Logo animado
+│   └── emojis/                     # 10 emojis SVG personalizados
+│       ├── purple-eye.svg
+│       ├── purple-users.svg
+│       ├── purple-target.svg
+│       ├── purple-rocket.svg
+│       ├── purple-code.svg
+│       ├── purple-sparkles.svg
+│       ├── purple-heart.svg
+│       ├── purple-star.svg
+│       ├── purple-fire.svg
+│       └── purple-lightning.svg
+│
+├── scripts/                         # Scripts de automação
+│   ├── update-stats.js             # Atualiza estatísticas
+│   └── fetch-data.py               # Busca dados do GitHub
+│
+├── README.md                        # Este arquivo (Profile README)
+├── PROJECT_README.md                # Documentação técnica do projeto
+├── README_GUIDE.md                  # Guia sobre READMEs
+├── SETUP.md                         # Guia de configuração detalhado
+├── QUICKSTART.md                    # Guia de início rápido
+├── STRUCTURE.md                     # Estrutura completa explicada
+├── CHANGELOG.md                     # Histórico de mudanças
+├── CONTRIBUTORS.md                  # Lista de contribuidores
+├── CLEANUP_SUMMARY.md               # Resumo de limpeza
+├── INDEX.md                         # Índice de documentação
+├── LICENSE                          # Licença MIT
+├── package.json                     # Dependências Node.js
+├── requirements.txt                 # Dependências Python
+├── .env.example                     # Exemplo de variáveis de ambiente
+└── .gitignore                       # Arquivos ignorados
+```
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="28" alt="Code" /> Technology Stack
+
+Este projeto utiliza as seguintes tecnologias:
+
+<div align="center">
+
+**Languages & Runtimes**
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" /></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" /></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" /></a>
+
+**Tools & Platforms**
+
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" /></a>
+<a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=markdown" width="50" height="50" alt="Markdown" /></a>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="28" alt="Heart" /> Configurações Opcionais
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-lightning.svg" width="20" alt="Lightning" /> WakaTime Integration
+
+Para mostrar suas estatísticas de código:
+
+1. Crie uma conta em [wakatime.com](https://wakatime.com/)
+2. Instale a extensão do WakaTime no seu editor
+3. Copie sua API Key
+4. Adicione como secret no GitHub: `WAKATIME_API_KEY`
+5. O workflow `update-wakatime.yml` fará o resto!
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="20" alt="Fire" /> GitHub Token (Recomendado)
+
+Para funcionalidades avançadas, crie um Personal Access Token:
+
+1. GitHub Settings → Developer settings → Personal access tokens → Generate new token
+2. Selecione os scopes: `repo`, `workflow`
+3. Adicione como secret: `PAT_TOKEN`
+
+Isso permite:
+- Auto-merge de PRs do Dependabot
+- Atualizações automáticas de stats
+- Acesso a repositórios privados em estatísticas
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="28" alt="Users" /> Personalização
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> Mudar Cores do Tema
+
+Todos os gráficos usam o tema roxo (`#a855f7`). Para mudar:
+
+```markdown
+<!-- Procure por: -->
+theme=tokyonight
+color=a855f7
+
+<!-- Substitua por outras cores: -->
+theme=dracula       # Roxo escuro
+theme=radical       # Pink/Roxo
+theme=radical       # Verde neon
+```
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="20" alt="Star" /> Adicionar/Remover Seções
+
+O README é modular. Você pode:
+- Comentar seções que não quer (`<!-- seção -->`)
+- Reordenar seções arrastando blocos
+- Adicionar novas seções seguindo o padrão
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="20" alt="Target" /> Usar Seus Próprios Emojis
+
+Substitua os URLs dos emojis por seus próprios:
+
+```markdown
+<!-- De: -->
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" />
+
+<!-- Para: -->
+<img src="https://raw.githubusercontent.com/SEU_USERNAME/.github/main/assets/emojis/seu-emoji.svg" />
+```
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="28" alt="Rocket" /> Documentação Completa
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="18" alt="Fire" /> Guias de Início
+
+- **[QUICKSTART.md](QUICKSTART.md)** - Configure em 5 minutos
+- **[SETUP.md](SETUP.md)** - Guia completo de configuração
+- **[README_GUIDE.md](README_GUIDE.md)** - Entenda os READMEs
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="18" alt="Code" /> Documentação Técnica
+
+- **[PROJECT_README.md](PROJECT_README.md)** - Documentação do projeto
+- **[STRUCTURE.md](STRUCTURE.md)** - Estrutura detalhada
+- **[.github/workflows/](https://github.com/DevYukis/.github/tree/main/.github/workflows)** - Automações
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="18" alt="Users" /> Contribuição
+
+- **[CONTRIBUTING.md](.github/CONTRIBUTING.md)** - Como contribuir
+- **[CODE_OF_CONDUCT.md](.github/CODE_OF_CONDUCT.md)** - Código de conduta
+- **[SECURITY.md](.github/SECURITY.md)** - Política de segurança
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="18" alt="Star" /> Histórico
+
+- **[CHANGELOG.md](CHANGELOG.md)** - Mudanças e versões
+- **[CONTRIBUTORS.md](CONTRIBUTORS.md)** - Lista de contribuidores
+- **[LICENSE](LICENSE)** - Licença MIT
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="28" alt="Heart" /> Contribuindo
+
+Adoramos contribuições! <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" />
+
+### Como contribuir:
+
+1. <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="14" alt="Star" /> **Fork** este repositório
+2. <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="14" alt="Code" /> **Crie uma branch** para sua feature (`git checkout -b feature/MinhaFeature`)
+3. <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="14" alt="Target" /> **Commit** suas mudanças (`git commit -m 'feat: adiciona MinhaFeature'`)
+4. <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="14" alt="Rocket" /> **Push** para a branch (`git push origin feature/MinhaFeature`)
+5. <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="14" alt="Heart" /> **Abra um Pull Request**
+
+Veja [CONTRIBUTING.md](.github/CONTRIBUTING.md) para mais detalhes.
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="28" alt="Fire" /> Recursos Inclusos
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> Assets Personalizados
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**Logo Animado**
+
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/devyukis-logo.svg" alt="Logo" width="300" />
+
+Logo SVG com gradiente roxo e animação de pulso
+
+</td>
+<td width="50%" align="center">
+
+**10 Emojis SVG Personalizados**
+
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-eye.svg" width="40" alt="Eye" />
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="40" alt="Users" />
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="40" alt="Target" />
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="40" alt="Rocket" />
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="40" alt="Code" />
+
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="40" alt="Sparkles" />
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="40" alt="Heart" />
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="40" alt="Star" />
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="40" alt="Fire" />
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-lightning.svg" width="40" alt="Lightning" />
+
+Emojis com animações e tema roxo
+
+</td>
+</tr>
+</table>
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> 13 GitHub Actions Workflows
+
+Pipeline completo de CI/CD, segurança, manutenção e automação
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="28" alt="Target" /> FAQ
+
+<details>
+<summary><strong><img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-eye.svg" width="16" alt="Eye" /> Como faço para o README aparecer no meu perfil?</strong></summary>
+
+<br>
+
+O repositório deve ter o **mesmo nome do seu username**. Por exemplo, se seu username é `joao`, crie um repositório chamado `joao`. O arquivo `README.md` na raiz desse repositório será exibido no seu perfil.
+
+</details>
+
+<details>
+<summary><strong><img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="16" alt="Code" /> As automações funcionam automaticamente?</strong></summary>
+
+<br>
+
+Sim! Depois de fazer o push dos arquivos, vá em `Actions` no seu repositório e clique em "Enable workflows". As automações rodarão nos horários programados ou quando você fizer commits.
+
+</details>
+
+<details>
+<summary><strong><img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="16" alt="Fire" /> Preciso pagar algo?</strong></summary>
+
+<br>
+
+Não! Tudo é 100% gratuito. O projeto usa GitHub Actions (gratuito para repositórios públicos) e serviços gratuitos de badges e stats.
+
+</details>
+
+<details>
+<summary><strong><img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" /> Posso usar em projetos comerciais?</strong></summary>
+
+<br>
+
+Sim! O projeto está sob licença MIT, o que significa que você pode usar, modificar e distribuir livremente, inclusive em projetos comerciais.
+
+</details>
+
+<details>
+<summary><strong><img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="16" alt="Heart" /> Como reporto bugs ou sugiro features?</strong></summary>
+
+<br>
+
+Abra uma [issue](https://github.com/DevYukis/.github/issues/new/choose) usando um dos templates disponíveis. Temos templates para bug reports, feature requests, documentation e questions.
+
+</details>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="28" alt="Users" /> Comunidade
+
+<div align="center">
+
+Junte-se à comunidade DevYukis!
+
+<br>
+
+<a href="https://github.com/DevYukis">
+  <img src="https://img.shields.io/badge/GitHub-Siga_no_GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:nickschunck17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Entre_em_Contato-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/nikolas-ribeiro">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte-a855f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://architect.guarasal.com">
+  <img src="https://img.shields.io/badge/Website-Visite-a855f7?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
 </a>
 
 <br><br>
 
-<!-- Profile Badges with Custom Purple Emojis -->
-<p>
-  <img src="./assets/emojis/purple-eye.svg" width="18" alt="Eye Icon" />
-  <img src="https://komarev.com/ghpvc/?username=DevYukis&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  
-  <img src="./assets/emojis/purple-users.svg" width="18" alt="Users Icon" />
-  <img src="https://img.shields.io/github/followers/DevYukis?style=for-the-badge&logo=github&color=a855f7&label=FOLLOWERS" alt="GitHub followers" />
-  
-  <img src="./assets/emojis/purple-target.svg" width="18" alt="Target Icon" />
-  <img src="https://img.shields.io/badge/Focus-Innovation-a855f7?style=for-the-badge" alt="Focus" />
-</p>
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="20" alt="Star" /> Mostre seu apoio
+
+Se este projeto te ajudou, considere dar uma <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="16" alt="Star" /> estrela!
+
+<a href="https://github.com/DevYukis/.github">
+  <img src="https://img.shields.io/github/stars/DevYukis/.github?style=social" alt="Stars" />
+</a>
+<a href="https://github.com/DevYukis/.github/fork">
+  <img src="https://img.shields.io/github/forks/DevYukis/.github?style=social" alt="Forks" />
+</a>
 
 </div>
 
 <br>
 
-<!-- Animated Divider with Purple Glow -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-## <img src="./assets/emojis/purple-code.svg" width="28" alt="Code" /> About Me
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="28" alt="Heart" /> Licença
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-### <img src="./assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> Who Am I
+```
+MIT License
 
-```typescript
-const nikolas = {
-  name: "Nikolas Ribeiro",
-  role: "Full Stack Developer",
-  location: "São Paulo, Brazil",
-  email: "nickschunck17@gmail.com",
-  website: "architect.guarasal.com",
-  
-  focus: [
-    "Building scalable applications",
-    "Clean code architecture",
-    "Performance optimization"
-  ],
-  
-  currentlyLearning: [
-    "Microservices",
-    "System Design",
-    "AI Integration"
-  ]
-};
+Copyright (c) 2025 DevYukis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 ```
 
-### <img src="./assets/emojis/purple-fire.svg" width="18" alt="Fire" /> What I Do
-
-- <img src="./assets/emojis/purple-code.svg" width="14" alt="Code" /> **Develop** robust full-stack applications
-- <img src="./assets/emojis/purple-sparkles.svg" width="14" alt="Sparkles" /> **Design** intuitive user interfaces
-- <img src="./assets/emojis/purple-target.svg" width="14" alt="Target" /> **Architect** cloud-native solutions
-- <img src="./assets/emojis/purple-lightning.svg" width="14" alt="Lightning" /> **Optimize** performance & scalability
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="./assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Tech Stack
-
-**Frontend**
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> React, Vue.js, Next.js
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> TypeScript, JavaScript
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> TailwindCSS, SCSS
-
-**Backend**
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> Node.js, Express
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> Python, Django, Flask
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> C#, .NET, Laravel
-
-**Database & Cloud**
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> PostgreSQL, MySQL, MongoDB
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> AWS, Azure, Google Cloud
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> Docker, Kubernetes, Nginx
-
-**Tools & Others**
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> Git, GitLab, GitHub Actions
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> REST APIs, GraphQL
-- <img src="./assets/emojis/purple-star.svg" width="12" alt="Star" /> TensorFlow, PyTorch
-
-</td>
-</tr>
-</table>
-
-### <img src="./assets/emojis/purple-heart.svg" width="20" alt="Heart" /> Philosophy
-
-> <img src="./assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" /> *"Great code is not just about making it work, but making it maintainable, scalable, and elegant."*
-
-I believe in writing code that not only solves today's problems but is also prepared for tomorrow's challenges.
-
-<hr>
-
-## <img src="./assets/emojis/purple-target.svg" width="24" alt="Target" /> Current Goals
-
-<div align="center">
-
-- 🎓 Master system design and microservices architecture
-- <img src="./assets/emojis/purple-star.svg" width="16" alt="Star" /> Contribute more to open source projects
-- ✍️ Share knowledge through technical writing
-- 👥 Mentor aspiring developers
-
-</div>
-
-<hr>
-
-## <img src="./assets/emojis/purple-sparkles.svg" width="22" alt="Sparkles" /> Fun Fact
-
-<div align="center">
-
-When I'm not coding, you'll find me 🔍 exploring new technologies, 🤝 contributing to open source, or ☕ brewing the perfect cup of coffee.
-
-</div>
-
 <br>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<div align="center">
-
-## <img src="./assets/emojis/purple-rocket.svg" width="26" alt="Rocket" /> What We Build
-
-</div>
-
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-### <img src="./assets/emojis/purple-target.svg" width="20" alt="Target" /> Web Applications
-Modern, scalable full-stack applications with cutting-edge frameworks
-
-**<img src="./assets/emojis/purple-code.svg" width="16" alt="Code" /> Tech Stack:**
-- ⚛️ React + TypeScript
-- 💚 Node.js + Express
-- ☁️ Azure Cloud
-- 🐳 Docker + K8s
-
-</td>
-<td width="33%" align="center">
-
-### <img src="./assets/emojis/purple-eye.svg" width="20" alt="Eye" /> AI Solutions
-Intelligent systems leveraging machine learning and neural networks
-
-**<img src="./assets/emojis/purple-lightning.svg" width="16" alt="Lightning" /> Focus Areas:**
-- 💬 NLP & Chatbots
-- 👁️ Computer Vision
-- 📊 Predictive Analytics
-- 🧠 ML Model Training
-
-</td>
-<td width="34%" align="center">
-
-### <img src="./assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Developer Tools
-Productivity tools and utilities for the developer community
-
-**<img src="./assets/emojis/purple-star.svg" width="16" alt="Star" /> Categories:**
-- 🔌 VS Code Extensions
-- ⚡ CLI Tools
-- 🤖 Automation Scripts
-- 🛠️ Code Generators
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<div align="center">
-
-## <img src="./assets/emojis/purple-code.svg" width="26" alt="Code" /> Technology Stack
-
-</div>
-
-<div align="center">
-
-### Core Technologies
-
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#" />
-<br>C#
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
-<br>React
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
-<br>Next.js
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET" />
-<br>.NET
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=azure" width="50" height="50" alt="Azure" />
-<br>Azure
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow" />
-<br>TensorFlow
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch" />
-<br>PyTorch
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
-<br>Git
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<div align="center">
-
-## <img src="./assets/emojis/purple-sparkles.svg" width="26" alt="Sparkles" /> Creative Visuals
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### <img src="./assets/emojis/purple-fire.svg" width="20" alt="Fire" /> Animated GIFs
-
-<img src="./assets/1114.gif" width="100%" alt="Creative Animation" />
-
-<p style="color: #a855f7; margin-top: 10px;">
-  <strong>Custom animations</strong> created for visual storytelling
-</p>
-
-</td>
-<td width="50%" align="center">
-
-### <img src="./assets/emojis/purple-heart.svg" width="20" alt="Heart" /> Design Elements
-
-<div style="background: rgba(168, 85, 247, 0.1); padding: 20px; border-radius: 12px; border: 2px solid rgba(168, 85, 247, 0.3);">
-
-**Creative Assets:**
-- <img src="./assets/emojis/purple-sparkles.svg" width="14" alt="Sparkles" /> Custom SVG Animations
-- <img src="./assets/emojis/purple-star.svg" width="14" alt="Star" /> Interactive Visuals
-- <img src="./assets/emojis/purple-rocket.svg" width="14" alt="Rocket" /> Motion Graphics
-- <img src="./assets/emojis/purple-lightning.svg" width="14" alt="Lightning" /> Dynamic Elements
-
-**Design Tools:**
-- Adobe After Effects
-- Figma & Sketch
-- CSS Animations
-- SVG Optimization
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<div align="center">
-
-## <img src="./assets/emojis/purple-star.svg" width="26" alt="Star" /> Featured Repositories
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/DevYukis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevYukis&repo=smart-web-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Smart Web Platform" />
-</a>
-<a href="https://github.com/DevYukis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevYukis&repo=ai-assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="AI Assistant" />
-</a>
-
-<br>
-
-<a href="https://github.com/DevYukis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevYukis&repo=cloud-infrastructure&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Cloud Infrastructure" />
-</a>
-<a href="https://github.com/DevYukis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevYukis&repo=dev-tools&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Developer Tools" />
-</a>
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<div align="center">
-
-## <img src="./assets/emojis/purple-users.svg" width="26" alt="Users" /> Organization Statistics
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevYukis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevYukis&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
-<br>
-
-### <img src="./assets/emojis/purple-fire.svg" width="22" alt="Fire" /> Activity & Contributions
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevYukis&custom_title=Organization%20Activity%20Graph&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&area_color=a855f7&hide_border=true" alt="Activity Graph" width="100%" />
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<div align="center">
-
-## ?? Join Our Community
-
-</div>
-
-<div align="center">
-
-We believe in the power of ?? collaboration and ?? open source. Here's how you can get involved:
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### ?? Star Projects
-Show support by starring repositories you find useful
-
-</td>
-<td align="center" width="25%">
-
-### ?? Contribute
-Submit PRs and help improve our projects
-
-</td>
-<td align="center" width="25%">
-
-### ?? Share Ideas
-Open issues with suggestions and feedback
-
-</td>
-<td align="center" width="25%">
-
-### ?? Spread the Word
-Share our work with your network
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### ?? Connect With Us
-
-<a href="https://github.com/DevYukis">
-  <img src="https://img.shields.io/badge/??_GitHub-Follow-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-</a>
-<a href="mailto:nickschunck17@gmail.com">
-  <img src="https://img.shields.io/badge/??_Email-Contact-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/nikolas-ribeiro">
-  <img src="https://img.shields.io/badge/??_LinkedIn-Connect-a855f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://architect.guarasal.com">
-  <img src="https://img.shields.io/badge/??_Website-Visit-a855f7?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
-</a>
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<div align="center">
-
-## ?? Latest Activity
-
-</div>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<div align="center">
-
-## ?? Professional Services
-
-</div>
-
-<div align="center">
-
-Looking for expert development services? We offer:
-
-<br>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### ?? Custom Development
-Full-stack web and mobile applications tailored to your needs
-
-</td>
-<td width="33%" align="center">
-
-### ?? Cloud Solutions
-Architecture design, migration, and optimization
-
-</td>
-<td width="34%" align="center">
-
-### ?? AI Integration
-Machine learning models and intelligent systems
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-### ?? Consulting
-Technical guidance and best practices
-
-</td>
-<td width="33%" align="center">
-
-### ?? Code Review
-Quality assurance and optimization
-
-</td>
-<td width="34%" align="center">
-
-### ?? Training
-Workshops and technical mentoring
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<a href="mailto:nickschunck17@gmail.com">
-  <img src="https://img.shields.io/badge/??_Get_In_Touch-Let's_Build_Something_Amazing-a855f7?style=for-the-badge" alt="Contact Us" />
-</a>
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<div align="center">
-
-## ? Our Impact
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/15+-??_Projects-success?style=for-the-badge&logoColor=white&color=a855f7" alt="Projects" />
-<br><b>Active Projects</b>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/1000+-??_Commits-blue?style=for-the-badge&logoColor=white&color=a855f7" alt="Commits" />
-<br><b>Code Commits</b>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/50+-??_Contributors-orange?style=for-the-badge&logoColor=white&color=a855f7" alt="Contributors" />
-<br><b>Community Members</b>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/10K+-??_Lines-red?style=for-the-badge&logoColor=white&color=a855f7" alt="Code" />
-<br><b>Lines of Code</b>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- Footer -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,33&height=120&section=footer" width="100%" />
@@ -584,152 +642,17 @@ Workshops and technical mentoring
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/Made_with-??_and_?-a855f7?style=flat-square" alt="Made with love" />
-  <img src="https://img.shields.io/badge/2025-?_DevYukis-a855f7?style=flat-square" alt="2025" />
-  <img src="https://img.shields.io/badge/??_Open_Source-Forever-a855f7?style=flat-square" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Made_with-💜-a855f7?style=flat-square" alt="Made with love" />
+  <img src="https://img.shields.io/badge/2025-DevYukis-a855f7?style=flat-square" alt="2025" />
+  <img src="https://img.shields.io/badge/Open_Source-Forever-a855f7?style=flat-square" alt="Open Source" />
 </p>
 
-**� 2025 DevYukis � Transforming Ideas Into Digital Reality** ??
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> **Transformando ideias em realidade digital** <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" />
 
-</div>
+**© 2025 DevYukis • GitHub Profile Perfection Package**
 
-</div>
+<br>
 
-### Hardware, OS & Utilities
-
-<div align="center">
-
-<a href="https://www.arduino.cc/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="Arduino" />
-</a>
-<a href="https://www.raspberrypi.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="50" alt="Raspberry Pi" />
-</a>
-<a href="https://learn.microsoft.com/en-us/cpp/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
-</a>
-<a href="https://www.apple.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=apple" height="50" alt="Apple" />
-</a>
-<a href="https://ubuntu.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="Ubuntu" />
-</a>
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
-</a>
-<a href="https://www.powershellgallery.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="PowerShell" />
-</a>
-
-</div>
-
-### AI & Writing
-
-<div align="center">
-
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" />
-</a>
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" />
-</a>
-<a href="https://www.latex-project.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=latex" height="50" alt="LaTeX" />
-</a>
-<a href="https://www.markdownguide.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="Markdown" />
-</a>
-
-</div>
-
-</div>
-
-<hr>
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="trophies" />
-</div>
-
-<hr>
-
-## Connect With Me
-
-<div align="center">
-  <a href="https://www.instagram.com/dev.nick_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/nikolas-ribeiro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:nickschunck17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://twitter.com/DevYukis" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-  </a>
-</div>
-
-<hr>
-
-## Recent Projects
-
-<div align="center">
-
-_Projects coming soon..._
-
-</div>
-
-<hr>
-
-## Contribution Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevYukis/DevYukis/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevYukis/DevYukis/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevYukis/DevYukis/output/github-contribution-grid-snake.svg">
-</picture>
-
-<hr>
-
-<div align="center">
-  
-### Quote of the Day
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
-</div>
-
-<hr>
-
-<div align="center">
-  
-### Fun Fact
-  
-When I'm not coding, you'll find me exploring new technologies, contributing to open source, or brewing the perfect cup of coffee.
-
-  
-### Current Goals
-  
-- Master system design and microservices architecture
-- Contribute more to open source projects
-- Share knowledge through technical writing
-- Mentor aspiring developers
-
-</div>
-
-<hr>
-
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%" />
-
-### If you like my work, consider following me or starring my repos
-
-[![Star](https://img.shields.io/badge/?-Star%20my%20repos-yellow?style=for-the-badge)](https://github.com/DevYukis?tab=repositories)
+<sub>Feito com <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="14" alt="Heart" /> por [DevYukis](https://github.com/DevYukis)</sub>
 
 </div>
