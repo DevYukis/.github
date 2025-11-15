@@ -305,6 +305,20 @@ Productivity tools and utilities for the developer community
 <br>C#
 </td>
 <td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ruby" width="50" height="50" alt="Ruby" />
+<br>Ruby
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=go" width="50" height="50" alt="Go" />
+<br>Go
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
 <br>React
 </td>
@@ -316,8 +330,6 @@ Productivity tools and utilities for the developer community
 <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
 <br>Next.js
 </td>
-</tr>
-<tr>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET" />
 <br>.NET
@@ -334,6 +346,8 @@ Productivity tools and utilities for the developer community
 <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
 <br>Docker
 </td>
+</tr>
+<tr>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow" />
 <br>TensorFlow
@@ -345,6 +359,14 @@ Productivity tools and utilities for the developer community
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
 <br>Git
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=gitlab" width="50" height="50" alt="GitLab" />
+<br>GitLab
 </td>
 </tr>
 </table>
