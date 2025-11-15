@@ -759,7 +759,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <br>
 
-## 🎨 Artwork Gallery
+## <img src="https://raw.githubusercontent.com/EnvolvimenteH3rr/EnvolvimenteH3rr/main/assets/emojis/purple-palette.svg" width="28" alt="Palette" /> Artwork Gallery
 
 <div align="center">
 
@@ -767,8 +767,15 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <br>
 
+<!-- Status atual da Steam -->
+<a href="https://steamcommunity.com/id/DevYuki/">
+  <img src="https://steam-status-badge.vercel.app/api/status/76561198966933358" alt="Steam Status" />
+</a>
+
+<br><br>
+
 <div align="center">
-  <a href="https://steamcommunity.com/id/YourSteamID">
+  <a href="https://steamcommunity.com/id/DevYuki/">
     <img src="https://img.shields.io/badge/Steam-View_My_Profile-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
   </a>
 </div>
@@ -797,7 +804,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <br>
 
-<p><i>🎮 Check out more artwork on my <a href="https://steamcommunity.com/id/YourSteamID">Steam Profile</a></i></p>
+<p><i>🎮 Check out more artwork on my <a href="https://steamcommunity.com/id/DevYuki/">Steam Profile</a></i></p>
 
 </div>
 
