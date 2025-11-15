@@ -755,6 +755,6 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 ### If you like my work, consider following me or starring my repos
 
-[![Star](https://img.shields.io/badge/?-Star%20my%20repos-yellow?style=for-the-badge)](https://github.com/DevYukis?tab=repositories)
+[![Star](https://img.shields.io/badge/⭐-Star%20my%20repos-yellow?style=for-the-badge)](https://github.com/DevYukis?tab=repositories)
 
 </div>
