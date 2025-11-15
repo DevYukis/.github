@@ -752,3 +752,57 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 [![Star](https://img.shields.io/badge/⭐-Star%20my%20repos-yellow?style=for-the-badge)](https://github.com/DevYukis?tab=repositories)
 
 </div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## 🎨 Artwork Gallery
+
+<div align="center">
+
+<p>✨ <b>Explore my creative side</b> — digital art, animations, and visual experiments ✨</p>
+
+<br>
+
+<div align="center">
+  <a href="https://steamcommunity.com/id/YourSteamID">
+    <img src="https://img.shields.io/badge/Steam-View_My_Profile-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
+  </a>
+</div>
+
+<br>
+
+<!-- Grid de artes -->
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://via.placeholder.com/500x300/a855f7/ffffff?text=Artwork+1" width="100%" alt="Artwork 1" />
+    </td>
+    <td width="50%">
+      <img src="https://via.placeholder.com/500x300/6366f1/ffffff?text=Artwork+2" width="100%" alt="Artwork 2" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://via.placeholder.com/500x300/8b5cf6/ffffff?text=Artwork+3" width="100%" alt="Artwork 3" />
+    </td>
+    <td width="50%">
+      <img src="https://via.placeholder.com/500x300/c084fc/ffffff?text=Artwork+4" width="100%" alt="Artwork 4" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p><i>🎮 Check out more artwork on my <a href="https://steamcommunity.com/id/YourSteamID">Steam Profile</a></i></p>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
