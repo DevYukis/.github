@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Skill Icons with Neon Purple Effect</title>
+    <style>
+        body {
+            background: #0d1117;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            padding: 40px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .skill-icon {
+            position: relative;
+            width: 80px;
+            height: 80px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .skill-icon svg {
+            width: 100%;
+            height: 100%;
+            transition: all 0.3s ease;
+            filter: drop-shadow(0 0 2px rgba(168, 85, 247, 0.3));
+        }
+
+        .skill-icon:hover svg {
+            filter: drop-shadow(0 0 10px rgba(168, 85, 247, 0.8))
+                    drop-shadow(0 0 20px rgba(168, 85, 247, 0.6))
+                    drop-shadow(0 0 30px rgba(168, 85, 247, 0.4));
+            transform: scale(1.1) translateY(-5px);
+        }
+
+        .skill-icon .icon-bg {
+            fill: #1a1f2e;
+            transition: all 0.3s ease;
+        }
+
+        .skill-icon:hover .icon-bg {
+            fill: #2a1f3e;
+        }
+
+        .skill-icon .icon-main {
+            fill: #c9d1d9;
+            transition: all 0.3s ease;
+        }
+
+        .skill-icon:hover .icon-main {
+            fill: #a855f7;
+        }
+
+        .skill-icon .icon-accent {
+            fill: #8b5cf6;
+            transition: all 0.3s ease;
+        }
+
+        .skill-icon:hover .icon-accent {
+            fill: #c084fc;
+        }
+
+        .skill-label {
+            position: absolute;
+            bottom: -25px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: #8b5cf6;
+            font-size: 12px;
+            font-weight: 600;
+            opacity: 0;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+
+        .skill-icon:hover .skill-label {
+            opacity: 1;
+            bottom: -30px;
+        }
+
+        .section-title {
+            width: 100%;
+            color: #a855f7;
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 20px;
+            text-shadow: 0 0 10px rgba(168, 85, 247, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <h1 class="section-title">✨ Programming Languages</h1>
+    
+    <!-- Python -->
+    <div class="skill-icon">
+        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <rect class="icon-bg" x="10" y="10" width="80" height="80" rx="15"/>
+            <path class="icon-main" d="M50 25c-6 0-11 5-11 11v5h11v2H35c-6 0-11 5-11 11s5 11 11 11h5V60c0-6 5-11 11-11h10c6 0 11-5 11-11v-7c0-6-5-11-11-11h-11z"/>
+            <path class="icon-accent" d="M50 75c6 0 11-5 11-11v-5H50v-2h15c6 0 11-5 11-11s-5-11-11-11h-5v5c0 6-5 11-11 11H39c-6 0-11 5-11 11v7c0 6 5 11 11 11h11z"/>
+            <circle class="icon-accent" cx="43" cy="35" r="2"/>
+            <circle class="icon-main" cx="57" cy="65" r="2"/>
+        </svg>
+        <div class="skill-label">Python</div>
+    </div>
+
+    <!-- JavaScript -->
+    <div class="skill-icon">
+        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <rect class="icon-bg" x="10" y="10" width="80" height="80" rx="15"/>
+            <text class="icon-main" x="50" y="65" font-size="35" font-weight="bold" text-anchor="middle" font-family="Arial">JS</text>
+            <path class="icon-accent" d="M30 25h40v5H30z"/>
+        </svg>
+        <div class="skill-label">JavaScript</div>
+    </div>
+
+    <!-- Java -->
+    <div class="skill-icon">
+        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <rect class="icon-bg" x="10" y="10" width="80" height="80" rx="15"/>
+            <path class="icon-main" d="M45 65c-3 0-5-2-5-5V40c0-3 2-5 5-5s5 2 5 5v20c0 3-2 5-5 5z"/>
+            <path class="icon-accent" d="M55 60c0 5 3 8 8 8s8-3 8-8V40h-5v20c0 2-1 3-3 3s-3-1-3-3V40h-5v20z"/>
+            <path class="icon-main" d="M35 75c5 0 8-3 8-8h-5c0 2-1 3-3 3s-3-1-3-3c0-2 1-3 3-3 5 0 8-3 8-8s-3-8-8-8-8 3-8 8h5c0-2 1-3 3-3s3 1 3 3-1 3-3 3c-5 0-8 3-8 8s3 8 8 8z"/>
+        </svg>
+        <div class="skill-label">Java</div>
+    </div>
+
+    <!-- TypeScript -->
+    <div class="skill-icon">
+        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <rect class="icon-bg" x="10" y="10" width="80" height="80" rx="15"/>
+            <text class="icon-main" x="50" y="65" font-size="35" font-weight="bold" text-anchor="middle" font-family="Arial">TS</text>
+            <rect class="icon-accent" x="25" y="25" width="50" height="3"/>
+        </svg>
+        <div class="skill-label">TypeScript</div>
+    </div>
+
+    <!-- React -->
+    <div class="skill-icon">
+        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <rect class="icon-bg" x="10" y="10" width="80" height="80" rx="15"/>
+            <ellipse class="icon-accent" cx="50" cy="50" rx="30" ry="12" fill="none" stroke="#8b5cf6" stroke-width="2"/>
+            <ellipse class="icon-accent" cx="50" cy="50" rx="30" ry="12" fill="none" stroke="#8b5cf6" stroke-width="2" transform="rotate(60 50 50)"/>
+            <ellipse class="icon-accent" cx="50" cy="50" rx="30" ry="12" fill="none" stroke="#8b5cf6" stroke-width="2" transform="rotate(120 50 50)"/>
+            <circle class="icon-main" cx="50" cy="50" r="5"/>
+        </svg>
+        <div class="skill-label">React</div>
+    </div>
+
+    <!-- Node.js -->
+    <div class="skill-icon">
+        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <rect class="icon-bg" x="10" y="10" width="80" height="80" rx="15"/>
+            <path class="icon-main" d="M50 25L30 37v24l20 12 20-12V37z"/>
+            <path class="icon-accent" d="M50 35v30M40 40l10-5 10 5M40 60l10 5 10-5"/>
+        </svg>
+        <div class="skill-label">Node.js</div>
+    </div>
+
+    <!-- Git -->
+    <div class="skill-icon">
+        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <rect class="icon-bg" x="10" y="10" width="80" height="80" rx="15"/>
+            <path class="icon-main" d="M30 50h40M50 30v40M35 35l-5 5 5 5M65 35l5 5-5 5"/>
+            <circle class="icon-accent" cx="30" cy="50" r="5"/>
+            <circle class="icon-accent" cx="70" cy="50" r="5"/>
+            <circle class="icon-main" cx="50" cy="30" r="5"/>
+            <circle class="icon-main" cx="50" cy="70" r="5"/>
+        </svg>
+        <div class="skill-label">Git</div>
+    </div>
+
+    <!-- Docker -->
+    <div class="skill-icon">
+        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <rect class="icon-bg" x="10" y="10" width="80" height="80" rx="15"/>
+            <rect class="icon-accent" x="30" y="45" width="8" height="8"/>
+            <rect class="icon-accent" x="40" y="45" width="8" height="8"/>
+            <rect class="icon-accent" x="50" y="45" width="8" height="8"/>
+            <rect class="icon-accent" x="30" y="55" width="8" height="8"/>
+            <rect class="icon-accent" x="40" y="55" width="8" height="8"/>
+            <rect class="icon-accent" x="50" y="55" width="8" height="8"/>
+            <path class="icon-main" d="M25 53h50c0-8-8-15-15-15h-20c-7 0-15 7-15 15z"/>
+        </svg>
+        <div class="skill-label">Docker</div>
+    </div>
+
+    <h1 class="section-title">🎨 IDEs & Tools</h1>
+
+    <!-- VS Code -->
+    <div class="skill-icon">
+        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <rect class="icon-bg" x="10" y="10" width="80" height="80" rx="15"/>
+            <path class="icon-main" d="M65 25L35 50l10 10 20-25z"/>
+            <path class="icon-accent" d="M35 50l30-25v50L35 60z"/>
+            <path class="icon-main" d="M35 50l-10 5 10 5z"/>
+        </svg>
+        <div class="skill-label">VS Code</div>
+    </div>
+
+    <!-- PyCharm -->
+    <div class="skill-icon">
+        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <rect class="icon-bg" x="10" y="10" width="80" height="80" rx="15"/>
+            <text class="icon-main" x="50" y="55" font-size="30" font-weight="bold" text-anchor="middle" font-family="Arial">PC</text>
+            <rect class="icon-accent" x="30" y="65" width="40" height="3"/>
+        </svg>
+        <div class="skill-label">PyCharm</div>
+    </div>
+
+    <!-- Eclipse -->
+    <div class="skill-icon">
+        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <rect class="icon-bg" x="10" y="10" width="80" height="80" rx="15"/>
+            <ellipse class="icon-accent" cx="50" cy="50" rx="25" ry="20" fill="none" stroke="#8b5cf6" stroke-width="3"/>
+            <path class="icon-main" d="M30 50c0-10 9-18 20-18"/>
+            <circle class="icon-accent" cx="50" cy="50" r="8"/>
+        </svg>
+        <div class="skill-label">Eclipse</div>
+    </div>
+
+    <!-- GitHub -->
+    <div class="skill-icon">
+        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <rect class="icon-bg" x="10" y="10" width="80" height="80" rx="15"/>
+            <circle class="icon-main" cx="50" cy="45" r="18"/>
+            <path class="icon-accent" d="M35 60c-5 5-5 10 0 15h30c5-5 5-10 0-15"/>
+            <circle class="icon-accent" cx="43" cy="42" r="2"/>
+            <circle class="icon-accent" cx="57" cy="42" r="2"/>
+        </svg>
+        <div class="skill-label">GitHub</div>
+    </div>
+
+    <script>
+        // Adicionar animação extra de pulsação ao passar o mouse
+        document.querySelectorAll('.skill-icon').forEach(icon => {
+            icon.addEventListener('mouseenter', function() {
+                this.style.animation = 'pulse 0.5s ease-in-out';
+            });
+            
+            icon.addEventListener('mouseleave', function() {
+                this.style.animation = '';
+            });
+        });
+
+        // Adicionar CSS para animação
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes pulse {
+                0%, 100% { transform: scale(1); }
+                50% { transform: scale(1.05); }
+            }
+        `;
+        document.head.appendChild(style);
+    </script>
+</body>
+</html>
