@@ -51,16 +51,25 @@
 
 <div align="center">
 
-###  <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Development Tools & Languages
+###  <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Programming Languages
 
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#" /></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /></a>
+<a href="https://www.ruby-lang.org/"><img src="https://skillicons.dev/icons?i=ruby" width="40" height="40" alt="Ruby" /></a>
 <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" /></a>
+<a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" /></a>
+
+###  <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="20" alt="Code" /> IDEs & Development Tools
+
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /></a>
+<a href="https://www.jetbrains.com/"><img src="https://skillicons.dev/icons?i=idea" width="40" height="40" alt="JetBrains" /></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="40" height="40" alt="PyCharm" /></a>
+<a href="https://www.eclipse.org/"><img src="https://skillicons.dev/icons?i=eclipse" width="40" height="40" alt="Eclipse" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
 
 ###  <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> Web, Cloud & Frameworks
 
