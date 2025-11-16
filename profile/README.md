@@ -25,7 +25,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&letterSpacing=1.5px&pause=1000&color=A855F7&center=true&vCenter=true&width=1080&height=120&lines=Hi!+I'm+Nikolas+Ribeiro" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" width="30" /> Hi there! I'm **DevYukis** � a full-stack developer passionate about building scalable applications and innovative solutions. This is my personal GitHub profile where I share open-source projects, technical resources, and hands-on experiences in web development, cloud computing, and AI.
+Hi there! I'm **DevYukis** — a full-stack developer passionate about building scalable applications and innovative solutions. This is my personal GitHub profile where I share open-source projects, technical resources, and hands-on experiences in web development, cloud computing, and AI.
 
 <br>
 
@@ -180,13 +180,13 @@
 
 ## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-eye.svg" width="28" alt="Eye" /> What You'll Find Here
 
-📚 <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="16" alt="Code" /> Source code from both academic and real-world projects.
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="16" alt="Code" /> Source code from both academic and real-world projects.
 
-🤖 <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-lightning.svg" width="16" alt="Lightning" /> Articles and insights about web development, cloud computing, AI/ML, and modern software architecture.
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-lightning.svg" width="16" alt="Lightning" /> Articles and insights about web development, cloud computing, AI/ML, and modern software architecture.
 
-🛠️ <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="16" alt="Fire" /> Self-developed tools, VS Code extensions, and automation scripts.
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="16" alt="Fire" /> Self-developed tools, VS Code extensions, and automation scripts.
 
-🌐 <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" /> Community resources and open-source contributions.
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" /> Community resources and open-source contributions.
 
 <br>
 
@@ -196,11 +196,11 @@
 
 ## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="28" alt="Heart" /> Connect with Me
 
-📧 <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-lightning.svg" width="16" alt="Lightning" /> Email: `nickschunck17@gmail.com`
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-lightning.svg" width="16" alt="Lightning" /> Email: `nickschunck17@gmail.com`
 
-🌍 <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="16" alt="Target" /> Website: [architect.guarasal.com](https://architect.guarasal.com/)
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="16" alt="Target" /> Website: [architect.guarasal.com](https://architect.guarasal.com/)
 
-💬 <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" /> Feel free to open an issue or pull request if you'd like to collaborate or ask questions!
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" /> Feel free to open an issue or pull request if you'd like to collaborate or ask questions!
 
 <br>
 
@@ -610,7 +610,7 @@ Workshops and technical mentoring
 <br>
 
 <a href="mailto:nickschunck17@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Get_In_Touch-Let's_Build_Something_Amazing-a855f7?style=for-the-badge" alt="Contact Us" />
+  <img src="https://img.shields.io/badge/Get_In_Touch-Let's_Build_Something_Amazing-a855f7?style=for-the-badge" alt="Contact Us" />
 </a>
 
 </div>
@@ -665,12 +665,12 @@ Workshops and technical mentoring
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/Made_with-💜_and_☕-a855f7?style=flat-square" alt="Made with love" />
+  <img src="https://img.shields.io/badge/Made_with-Love_and_Code-a855f7?style=flat-square" alt="Made with love" />
   <img src="https://img.shields.io/badge/2025-DevYukis-a855f7?style=flat-square" alt="2025" />
   <img src="https://img.shields.io/badge/Open_Source-Forever-a855f7?style=flat-square" alt="Open Source" />
 </p>
 
-**© 2025 DevYukis • Transforming Ideas Into Digital Reality** ✨
+**© 2025 DevYukis • Transforming Ideas Into Digital Reality**
 
 </div>
 
@@ -763,13 +763,13 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <div align="center">
 
-<p>✨ <b>Explore my creative side</b> — digital art, animations, and visual experiments ✨</p>
+<p><b>Explore my creative side</b> — digital art, animations, and visual experiments</p>
 
 <br>
 
 <!-- Coming Soon Box -->
 <div style="border: 2px solid #a855f7; border-radius: 15px; padding: 60px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); max-width: 600px; margin: 20px auto;">
-  <h2 style="color: #a855f7; font-size: 48px; margin: 0;">🎨</h2>
+  <h2 style="color: #a855f7; font-size: 48px; margin: 0;"><img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-palette.svg" width="48" alt="Palette" /></h2>
   <h3 style="color: #c084fc; margin: 20px 0 10px 0;">COMING SOON</h3>
   <p style="color: #9ca3af; font-size: 14px;">Amazing artwork and animations on the way!</p>
 </div>
@@ -798,7 +798,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <div align="center">
 
-<p>✨ <b>My gaming collection</b> — the games that inspire and entertain me ✨</p>
+<p><b>My gaming collection</b> — the games that inspire and entertain me</p>
 
 <br>
 
@@ -808,7 +808,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
     <td width="25%" align="center">
       <div style="background: #2b2d31; border-radius: 12px; padding: 15px; border: 2px solid #404249;">
         <div style="background: linear-gradient(135deg, #a855f7 0%, #6366f1 100%); height: 200px; border-radius: 8px; display: flex; align-items: center; justify-content: center;">
-          <h2 style="color: white; margin: 0;">🎮</h2>
+          <h2 style="color: white; margin: 0;"><img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-gamepad.svg" width="48" alt="Gamepad" /></h2>
         </div>
         <h4 style="color: #c084fc; margin: 15px 0 5px 0;">COMING SOON</h4>
         <p style="color: #9ca3af; font-size: 12px; margin: 0;">Game 1</p>
@@ -817,7 +817,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
     <td width="25%" align="center">
       <div style="background: #2b2d31; border-radius: 12px; padding: 15px; border: 2px solid #404249;">
         <div style="background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%); height: 200px; border-radius: 8px; display: flex; align-items: center; justify-content: center;">
-          <h2 style="color: white; margin: 0;">🎮</h2>
+          <h2 style="color: white; margin: 0;"><img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-gamepad.svg" width="48" alt="Gamepad" /></h2>
         </div>
         <h4 style="color: #c084fc; margin: 15px 0 5px 0;">COMING SOON</h4>
         <p style="color: #9ca3af; font-size: 12px; margin: 0;">Game 2</p>
@@ -826,7 +826,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
     <td width="25%" align="center">
       <div style="background: #2b2d31; border-radius: 12px; padding: 15px; border: 2px solid #404249;">
         <div style="background: linear-gradient(135deg, #8b5cf6 0%, #a855f7 100%); height: 200px; border-radius: 8px; display: flex; align-items: center; justify-content: center;">
-          <h2 style="color: white; margin: 0;">🎮</h2>
+          <h2 style="color: white; margin: 0;"><img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-gamepad.svg" width="48" alt="Gamepad" /></h2>
         </div>
         <h4 style="color: #c084fc; margin: 15px 0 5px 0;">COMING SOON</h4>
         <p style="color: #9ca3af; font-size: 12px; margin: 0;">Game 3</p>
@@ -835,7 +835,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
     <td width="25%" align="center">
       <div style="background: #2b2d31; border-radius: 12px; padding: 15px; border: 2px solid #404249;">
         <div style="background: linear-gradient(135deg, #c084fc 0%, #a855f7 100%); height: 200px; border-radius: 8px; display: flex; align-items: center; justify-content: center;">
-          <h2 style="color: white; margin: 0;">🎮</h2>
+          <h2 style="color: white; margin: 0;"><img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-gamepad.svg" width="48" alt="Gamepad" /></h2>
         </div>
         <h4 style="color: #c084fc; margin: 15px 0 5px 0;">COMING SOON</h4>
         <p style="color: #9ca3af; font-size: 12px; margin: 0;">Game 4</p>
