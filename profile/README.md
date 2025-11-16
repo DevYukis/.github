@@ -759,7 +759,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/EnvolvimenteH3rr/EnvolvimenteH3rr/main/assets/emojis/purple-palette.svg" width="28" alt="Palette" /> Artwork Gallery
+## <img src="https://raw.githubusercontent.com/DevYuki/GITNPPP/main/assets/emojis/purple-palette.svg" width="28" alt="Palette" /> Artwork Gallery
 
 <div align="center">
 
