@@ -526,6 +526,19 @@ Share our work with your network
 <a href="https://architect.guarasal.com">
   <img src="https://img.shields.io/badge/Website-Visit-a855f7?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
 </a>
+<a href="https://ko-fi.com/devyuki">
+  <img src="https://img.shields.io/badge/Ko--fi-Support-a855f7?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi" />
+</a>
+
+<br><br>
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="20" alt="Heart" /> Support My Work
+
+<a href="https://ko-fi.com/devyuki">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+</a>
+
+<p>If you find my work helpful, consider buying me a coffee! Your support helps me create more open-source projects and content.</p>
 
 </div>
 
