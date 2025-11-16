@@ -12,11 +12,11 @@ Se você descobrir uma vulnerabilidade de segurança, **por favor NÃO a reporte
 
 Envie um email detalhado para:
 
-**security@seu-dominio.com**
+**nickschunck17@gmail.com**
 
 Ou use o recurso de **Security Advisories** do GitHub:
 
-[Reportar Vulnerabilidade Privada](https://github.com/SEU_USERNAME/SEU_REPO/security/advisories/new)
+[Reportar Vulnerabilidade Privada](https://github.com/DevYukis/.github/security/advisories/new)
 
 ### 📋 O Que Incluir no Relatório
 
@@ -266,13 +266,13 @@ trivy image nome-da-imagem
 
 ## 📞 Contato de Segurança
 
-- **Email**: security@seu-dominio.com
+- **Email**: nickschunck17@gmail.com
 - **PGP Key**: [Chave Pública](link-para-chave)
-- **Security Advisories**: [GitHub Security](https://github.com/SEU_USERNAME/SEU_REPO/security)
+- **Security Advisories**: [GitHub Security](https://github.com/DevYukis/.github/security)
 
 ### Equipe de Segurança
 
-- **Security Lead**: [@seu-username](https://github.com/seu-username)
+- **Security Lead**: [@DevYukis](https://github.com/DevYukis)
 - **Response Time**: < 24 horas úteis
 - **Timezone**: UTC-3 (Brasília)
 
@@ -308,6 +308,6 @@ Agradecemos a todos os pesquisadores de segurança que ajudam a manter este proj
 
 Se você tem dúvidas sobre esta política, entre em contato conosco.
 
-[![Security](https://img.shields.io/badge/Security-Responsible%20Disclosure-green?style=for-the-badge)](mailto:security@seu-dominio.com)
+[![Security](https://img.shields.io/badge/Security-Responsible%20Disclosure-green?style=for-the-badge)](mailto:nickschunck17@gmail.com)
 
 </div>

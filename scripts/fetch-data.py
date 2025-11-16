@@ -13,7 +13,7 @@ def get_contribution_data():
         'Accept': 'application/vnd.github.v3+json'
     }
     
-    url = f'https://api.github.com/users/{GITHUB_USERNAME}/events/public'
+    url = f'https://api.github.com/users/{GITHUB_USERNAME}/public'
     
     try:
         response = requests.get(url, headers=headers)

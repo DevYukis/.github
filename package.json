@@ -1,7 +1,7 @@
 {
   "name": "github-profile-advanced",
-  "version": "1.0.0",
-  "description": "Perfil GitHub avançado com automações",
+  "version": "1.1.0",
+  "description": "GitHub Profile Perfection Package - Template profissional com automações avançadas, funding integration e custom purple emojis",
   "main": "scripts/update-stats.js",
   "scripts": {
     "update": "node scripts/update-stats.js",
@@ -11,7 +11,13 @@
     "github",
     "profile",
     "readme",
-    "automation"
+    "automation",
+    "github-sponsors",
+    "ko-fi",
+    "funding",
+    "svg-emojis",
+    "purple-theme",
+    "github-actions"
   ],
   "author": "",
   "license": "MIT",

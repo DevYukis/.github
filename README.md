@@ -12,7 +12,7 @@
 
 <!-- Badges -->
 <p>
-  <img src="https://img.shields.io/badge/version-1.0.0-a855f7?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/badge/version-1.1.0-a855f7?style=for-the-badge" alt="Version" />
   <img src="https://img.shields.io/badge/license-MIT-a855f7?style=for-the-badge" alt="License" />
   <img src="https://img.shields.io/badge/status-active-a855f7?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/made_with-💜-a855f7?style=for-the-badge" alt="Made with love" />
