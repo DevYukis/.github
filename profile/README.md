@@ -35,11 +35,11 @@
 
 ## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="30" alt="Users" /> About Me
 
-<img src="https://raw.githubusercontent.com/DevYuki/GITNPPP/main/assets/emojis/purple-graduation.svg" width="20" alt="Graduation" /> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Full-stack developer & software architect — currently exploring cloud-native architectures, microservices, and AI integration.
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-graduation.svg" width="20" alt="Graduation" /> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Full-stack developer & software architect — currently exploring cloud-native architectures, microservices, and AI integration.
 
-<img src="https://raw.githubusercontent.com/DevYuki/GITNPPP/main/assets/emojis/purple-bulb.svg" width="20" alt="Bulb" /> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> I love building beautiful, practical tools — from small utilities to full-scale enterprise systems.
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-bulb.svg" width="20" alt="Bulb" /> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> I love building beautiful, practical tools — from small utilities to full-scale enterprise systems.
 
-<img src="https://raw.githubusercontent.com/DevYuki/GITNPPP/main/assets/emojis/purple-pencil.svg" width="20" alt="Pencil" /> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="20" alt="Star" /> My mission: To contribute to innovative technology solutions and share knowledge with the developer community.
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-pencil.svg" width="20" alt="Pencil" /> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="20" alt="Star" /> My mission: To contribute to innovative technology solutions and share knowledge with the developer community.
 
 <br>
 
@@ -759,7 +759,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/DevYuki/GITNPPP/main/assets/emojis/purple-palette.svg" width="28" alt="Palette" /> Artwork Gallery
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-palette.svg" width="28" alt="Palette" /> Artwork Gallery
 
 <div align="center">
 
@@ -784,7 +784,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <br>
 
-<p><i><img src="https://raw.githubusercontent.com/DevYuki/GITNPPP/main/assets/emojis/purple-gamepad.svg" width="18" alt="Gamepad" /> Check out more artwork on my <a href="https://steamcommunity.com/id/DevYuki/">Steam Profile</a></i></p>
+<p><i><img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-gamepad.svg" width="18" alt="Gamepad" /> Check out more artwork on my <a href="https://steamcommunity.com/id/DevYuki/">Steam Profile</a></i></p>
 
 </div>
 
@@ -794,7 +794,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/DevYuki/GITNPPP/main/assets/emojis/purple-gamepad.svg" width="28" alt="Gamepad" /> Favorite Games
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-gamepad.svg" width="28" alt="Gamepad" /> Favorite Games
 
 <div align="center">
 
@@ -846,7 +846,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <br>
 
-<p><i><img src="https://raw.githubusercontent.com/DevYuki/GITNPPP/main/assets/emojis/purple-joystick.svg" width="18" alt="Joystick" /> My favorite games showcase — where virtual worlds come alive</i></p>
+<p><i><img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-joystick.svg" width="18" alt="Joystick" /> My favorite games showcase — where virtual worlds come alive</i></p>
 
 </div>
 
