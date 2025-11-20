@@ -1,5 +1,18 @@
 <div align="center">
 
+<!-- Language Selector -->
+<p>
+  <strong>📍 Idioma:</strong>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Português_🇧🇷-a855f7?style=for-the-badge" alt="Português" />
+  </a>
+  <a href="README.en.md">
+    <img src="https://img.shields.io/badge/English_🇺🇸-gray?style=for-the-badge" alt="English" />
+  </a>
+</p>
+
+<br>
+
 <!-- Organization Header with Custom Purple Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,33&height=200&section=header&text=GITNPPP&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=GitHub%20Profile%20Perfection%20Package&descSize=20&descAlignY=55" width="100%" />
 
@@ -14,13 +27,89 @@
 <p>
   <img src="https://img.shields.io/badge/version-1.1.0-a855f7?style=for-the-badge" alt="Version" />
   <img src="https://img.shields.io/badge/license-MIT-a855f7?style=for-the-badge" alt="License" />
-  <img src="https://img.shields.io/badge/status-active-a855f7?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/status-production-a855f7?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/workflows-13-a855f7?style=for-the-badge" alt="Workflows" />
+  <img src="https://img.shields.io/badge/funding-enabled-a855f7?style=for-the-badge" alt="Funding" />
   <img src="https://img.shields.io/badge/made_with-💜-a855f7?style=for-the-badge" alt="Made with love" />
 </p>
 
-**O template de perfil GitHub mais completo e automatizado que você vai encontrar**
+### 🚀 O Template de Perfil GitHub Mais Completo e Automatizado
 
-[Quick Start](#-quick-start) • [Recursos](#-recursos) • [Instalação](#-instalação) • [Documentação](#-documentação)
+**Transforme seu perfil GitHub em um portfólio profissional impressionante!**
+
+✨ 13 Workflows Automatizados • 🎨 10 Emojis SVG Customizados • 💜 Sistema de Doações Integrado • 🔒 Segurança Avançada
+
+[Quick Start](#-quick-start) • [Recursos](#-recursos) • [Instalação](#-instalação) • [Documentação](#-documentação) • [Demo ao Vivo](https://github.com/DevYukis)
+
+---
+
+### 📢 Apresentação do Projeto
+
+Este é um **projeto open-source completo** que oferece:
+
+- 🎯 **Setup em 5 minutos** - Documentação clara e objetiva
+- 🤖 **13 GitHub Actions** - Automação completa de CI/CD, segurança e manutenção
+- 🎨 **Design System** - 10 emojis SVG personalizados com tema roxo
+- 💜 **Monetização** - GitHub Sponsors e Ko-fi integrados
+- 📚 **Documentação Profissional** - 10+ arquivos .md bem estruturados
+- 🔧 **Altamente Personalizável** - Fácil adaptação para qualquer desenvolvedor
+
+**Ideal para desenvolvedores que querem:**
+- ✅ Destacar seu portfólio no GitHub
+- ✅ Aprender boas práticas de DevOps
+- ✅ Automatizar processos de desenvolvimento
+- ✅ Criar uma presença profissional online
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## 📊 Estatísticas do Projeto
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📁 Arquivos
+**70+ Arquivos**
+- 10+ Documentações
+- 13 Workflows
+- 5 Issue Templates
+- 10 Emojis SVG
+
+</td>
+<td align="center" width="33%">
+
+### 🎨 Recursos
+**Completo & Profissional**
+- CI/CD Pipeline
+- Security Scanning
+- Auto-updates
+- Community Templates
+
+</td>
+<td align="center" width="34%">
+
+### 💜 Tecnologias
+**Modern Stack**
+- GitHub Actions
+- Node.js & Python
+- Markdown & SVG
+- Git Workflows
+
+</td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/Lines_of_Code-5000%2B-a855f7?style=for-the-badge" alt="Lines of Code" />
+<img src="https://img.shields.io/badge/Documentation-Excellent-a855f7?style=for-the-badge" alt="Documentation" />
+<img src="https://img.shields.io/badge/Maintenance-Active-a855f7?style=for-the-badge" alt="Maintenance" />
 
 </div>
 
@@ -402,6 +491,85 @@ Substitua os URLs dos emojis por seus próprios:
 
 <br>
 
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="28" alt="Sparkles" /> Ferramentas Recomendadas
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="20" alt="Fire" /> Para Criar Suas Próprias Personalizações
+
+Se você quer criar elementos customizados como os emojis SVG e outros assets deste projeto, aqui estão as melhores ferramentas:
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="18" alt="Star" /> Design e Vetores
+
+**[Figma](https://figma.com)** <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="14" alt="Heart" /> Recomendado
+- Interface intuitiva e colaborativa
+- Exportação SVG de alta qualidade
+- Plugins para otimização de código
+- Grátis para uso pessoal
+- **Usado para criar os 10 emojis SVG deste projeto**
+
+**[Inkscape](https://inkscape.org)** - Alternativa Open-Source
+- Editor SVG profissional e gratuito
+- Total controle do código SVG
+- Excelente para logos e ícones
+
+**[SVGator](https://www.svgator.com)** - Animações SVG
+- Crie animações sem código
+- Export otimizado para web
+- Ideal para logos animados
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="18" alt="Code" /> Otimização e Código
+
+**[SVGOMG](https://jakearchibald.github.io/svgomg/)** - Otimizador Online
+- Reduz tamanho do arquivo SVG
+- Limpa código desnecessário
+- Preview em tempo real
+
+**[Coolors](https://coolors.co)** - Paletas de Cores
+- Gere paletas harmoniosas
+- Export em vários formatos
+- Acessibilidade e contraste
+
+**[Hero Patterns](https://heropatterns.com)** - Backgrounds SVG
+- Padrões personalizáveis
+- Export direto em SVG
+- Ideal para headers
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="18" alt="Target" /> Recursos Visuais
+
+**[Shields.io](https://shields.io)** - Badges Customizados
+- Milhares de badges prontos
+- Totalmente personalizável
+- Usado nos badges deste projeto
+
+**[Capsule Render](https://github.com/kyechan99/capsule-render)** - Headers Dinâmicos
+- Headers animados para perfil
+- Várias formas e estilos
+- Usado no header deste README
+
+</td>
+</tr>
+</table>
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-lightning.svg" width="18" alt="Lightning" /> Dicas para Personalização
+
+1. **Mantenha consistência**: Use a mesma paleta de cores em todos os elementos
+2. **Otimize SVGs**: Sempre passe pelo SVGOMG antes de usar
+3. **Teste responsividade**: Verifique como fica em diferentes tamanhos
+4. **Use nomes descritivos**: `purple-star.svg` é melhor que `icon1.svg`
+5. **Versionamento**: Mantenha backups das versões originais (Figma/Inkscape)
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
 ## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="28" alt="Rocket" /> Documentação Completa
 
 <table>
@@ -601,6 +769,112 @@ Se este projeto te ajudou, considere dar uma <img src="https://raw.githubusercon
 </a>
 <a href="https://github.com/DevYukis/.github/fork">
   <img src="https://img.shields.io/github/forks/DevYukis/.github?style=social" alt="Forks" />
+</a>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## 🎬 Showcase & Demonstração
+
+<div align="center">
+
+### 💼 Projeto em Produção
+
+Este projeto está **ativo e funcional**! Confira o resultado ao vivo:
+
+<br>
+
+<a href="https://github.com/DevYukis">
+  <img src="https://img.shields.io/badge/🔥_DEMO_AO_VIVO-Ver_Perfil-a855f7?style=for-the-badge&logoColor=white" alt="Demo" />
+</a>
+
+<br><br>
+
+### 📸 Preview do Projeto
+
+**Exemplo de perfil criado com este template:**
+
+```
+┌─────────────────────────────────────────────┐
+│  ✨ Header Animado com Wave Effect         │
+│  🎨 Logo Customizado com Gradiente         │
+│  📊 GitHub Stats em Tempo Real              │
+│  🔥 Contribution Snake Animation            │
+│  💜 Ko-fi & GitHub Sponsors Integrados      │
+│  🎯 10 Emojis SVG Personalizados            │
+│  🤖 13 Workflows Automatizados              │
+│  📱 Design Responsivo e Moderno             │
+└─────────────────────────────────────────────┘
+```
+
+### 🎨 Recursos Visuais Inclusos
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🎨 Custom Emojis**
+
+10 emojis SVG com animações  
+Tema roxo (#a855f7)  
+Preview page interativa
+
+</td>
+<td align="center" width="50%">
+
+**💻 Tech Stack**
+
+GitHub Actions  
+Node.js & Python  
+Markdown & SVG
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**🤖 Automações**
+
+13 workflows configurados  
+CI/CD completo  
+Security scanning
+
+</td>
+<td align="center" width="50%">
+
+**📚 Documentação**
+
+10+ arquivos .md  
+Tutoriais passo a passo  
+Exemplos de código
+
+</td>
+</tr>
+</table>
+
+### 🌟 Perfeito Para
+
+<p>
+  <img src="https://img.shields.io/badge/Desenvolvedores-a855f7?style=for-the-badge" alt="Developers" />
+  <img src="https://img.shields.io/badge/Estudantes-a855f7?style=for-the-badge" alt="Students" />
+  <img src="https://img.shields.io/badge/Freelancers-a855f7?style=for-the-badge" alt="Freelancers" />
+  <img src="https://img.shields.io/badge/Tech_Leads-a855f7?style=for-the-badge" alt="Tech Leads" />
+</p>
+
+### 📢 Compartilhe nas Redes Sociais
+
+Gostou do projeto? Ajude a divulgar!
+
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/DevYukis/.github" target="_blank">
+  <img src="https://img.shields.io/badge/Compartilhar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
+<a href="https://twitter.com/intent/tweet?text=Confira%20este%20template%20incrível%20de%20perfil%20GitHub!&url=https://github.com/DevYukis/.github" target="_blank">
+  <img src="https://img.shields.io/badge/Compartilhar_no_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Share on Twitter" />
 </a>
 
 </div>
