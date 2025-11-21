@@ -1,4 +1,4 @@
-Ôªø<!-- SESSION_START: profile_view_2025 -->
+<!-- SESSION_START: profile_view_2025 -->
 <!-- SESSION_ID: devyukis_main_profile -->
 <!-- VERSION: 3.2.1 -->
 <!-- LAST_UPDATED: 2025-11-21 -->
@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -29,7 +29,7 @@
 <br>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -39,11 +39,11 @@
 
 <!-- SECTION: introduction -->
 <!-- CHARACTER_COUNT: 156 -->
-Hi there! I'm **DevYukis** ‚Äî a full-stack developer passionate about building scalable applications and innovative solutions. This is my personal GitHub profile where I share open-source projects, technical resources, and hands-on experiences in web development, cloud computing, and AI.
+Hi there! I'm **DevYukis** ó a full-stack developer passionate about building scalable applications and innovative solutions. This is my personal GitHub profile where I share open-source projects, technical resources, and hands-on experiences in web development, cloud computing, and AI.
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -53,15 +53,15 @@ Hi there! I'm **DevYukis** ‚Äî a full-stack developer passionate about building 
 ## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="30" alt="Users" /> About Me
 
 <!-- SUBSECTION: education_career -->
-<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-graduation.svg" width="20" alt="Graduation" /> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Full-stack developer & software architect ‚Äî currently exploring cloud-native architectures, microservices, and AI integration.
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-graduation.svg" width="20" alt="Graduation" /> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Full-stack developer & software architect ó currently exploring cloud-native architectures, microservices, and AI integration.
 
-<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-bulb.svg" width="20" alt="Bulb" /> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> I love building beautiful, practical tools ‚Äî from small utilities to full-scale enterprise systems.
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-bulb.svg" width="20" alt="Bulb" /> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> I love building beautiful, practical tools ó from small utilities to full-scale enterprise systems.
 
 <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-pencil.svg" width="20" alt="Pencil" /> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="20" alt="Star" /> My mission: To contribute to innovative technology solutions and share knowledge with the developer community.
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -145,7 +145,7 @@ Hi there! I'm **DevYukis** ‚Äî a full-stack developer passionate about building 
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -156,21 +156,21 @@ Hi there! I'm **DevYukis** ‚Äî a full-stack developer passionate about building 
 
 <!-- PROJECT_ITEM: 1 -->
 <!-- STATUS: active -->
-**Smart Web Platform** ‚Äî A modern full-stack platform for enterprise applications  
+**Smart Web Platform** ó A modern full-stack platform for enterprise applications  
 *Technologies:* React, Next.js, Node.js, PostgreSQL, Azure
 
-**AI Assistant** ‚Äî Intelligent assistant with NLP capabilities  
+**AI Assistant** ó Intelligent assistant with NLP capabilities  
 *Technologies:* Python, TensorFlow, OpenAI API, FastAPI
 
-**Cloud Infrastructure** ‚Äî Automated cloud deployment and management tools  
+**Cloud Infrastructure** ó Automated cloud deployment and management tools  
 *Technologies:* Terraform, Docker, Kubernetes, AWS
 
-**Dev Toolkit** ‚Äî Collection of developer productivity tools  
+**Dev Toolkit** ó Collection of developer productivity tools  
 *Technologies:* TypeScript, Electron, VS Code Extension API
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -210,7 +210,7 @@ Hi there! I'm **DevYukis** ‚Äî a full-stack developer passionate about building 
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -226,7 +226,7 @@ Hi there! I'm **DevYukis** ‚Äî a full-stack developer passionate about building 
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -244,11 +244,11 @@ Hi there! I'm **DevYukis** ‚Äî a full-stack developer passionate about building 
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
-> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" /> *"I believe that knowledge should be shared ‚Äî let's learn and grow together."* ‚Äî DevYukis <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" />
+> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" /> *"I believe that knowledge should be shared ó let's learn and grow together."* ó DevYukis <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" />
 
 <br>
 
@@ -267,7 +267,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 <br>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -324,7 +324,7 @@ Productivity tools and utilities for the developer community
 <br>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -445,7 +445,7 @@ Productivity tools and utilities for the developer community
 <br>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -495,7 +495,7 @@ Productivity tools and utilities for the developer community
 <br>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -605,7 +605,7 @@ Share our work with your network
 <br>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -621,7 +621,7 @@ Share our work with your network
 <br>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -691,7 +691,7 @@ Workshops and technical mentoring
 <br>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -743,7 +743,7 @@ Workshops and technical mentoring
   <img src="https://img.shields.io/badge/Open_Source-Forever-a855f7?style=flat-square" alt="Open Source" />
 </p>
 
-**¬© 2025 DevYukis ‚Ä¢ Transforming Ideas Into Digital Reality**
+**© 2025 DevYukis ï Transforming Ideas Into Digital Reality**
 
 </div>
 
@@ -770,7 +770,7 @@ Workshops and technical mentoring
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -841,13 +841,13 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 ### If you like my work, consider following me or starring my repos
 
-[![Star](https://img.shields.io/badge/‚≠ê-Star%20my%20repos-yellow?style=for-the-badge)](https://github.com/DevYukis?tab=repositories)
+[![Star](https://img.shields.io/badge/?-Star%20my%20repos-yellow?style=for-the-badge)](https://github.com/DevYukis?tab=repositories)
 
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -858,7 +858,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <div align="center">
 
-<p><b>Explore my creative side</b> ‚Äî digital art, animations, and visual experiments</p>
+<p><b>Explore my creative side</b> ó digital art, animations, and visual experiments</p>
 
 <br>
 
@@ -885,7 +885,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 <br>
 
@@ -897,7 +897,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <div align="center">
 
-<p><b>My gaming collection</b> ‚Äî the games that inspire and entertain me</p>
+<p><b>My gaming collection</b> ó the games that inspire and entertain me</p>
 
 <br>
 
@@ -945,12 +945,13 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <br>
 
-<p><i><img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-joystick.svg" width="18" alt="Joystick" /> My favorite games showcase ‚Äî where virtual worlds come alive</i></p>
+<p><i><img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-joystick.svg" width="18" alt="Joystick" /> My favorite games showcase ó where virtual worlds come alive</i></p>
 
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-wave-divider.svg" width="100%">
 
 </div>
+

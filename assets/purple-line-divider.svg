@@ -1,0 +1,51 @@
+<svg width="100%" height="10" viewBox="0 0 1200 10" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="purpleLineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7C3AED;stop-opacity:0.3">
+        <animate attributeName="stop-opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="25%" style="stop-color:#A855F7;stop-opacity:0.8">
+        <animate attributeName="stop-opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#C084FC;stop-opacity:1">
+        <animate attributeName="stop-opacity" values="1;0.8;1" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="75%" style="stop-color:#8B5CF6;stop-opacity:0.8">
+        <animate attributeName="stop-opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:0.3">
+        <animate attributeName="stop-opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <!-- Filtro de glitch sutil para design -->
+    <filter id="glitchDesign">
+      <feTurbulence type="fractalNoise" baseFrequency="0.01" numOctaves="2" result="turbulence">
+        <animate attributeName="baseFrequency" values="0.01;0.015;0.01" dur="5s" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in2="turbulence" in="SourceGraphic" scale="2" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+  
+  <!-- Linha principal -->
+  <rect width="1200" height="3" y="3.5" fill="url(#purpleLineGradient)">
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Linha com glitch design sutil -->
+  <rect width="1200" height="3" y="3.5" fill="url(#purpleLineGradient)" filter="url(#glitchDesign)" opacity="0.3"/>
+  
+  <!-- Brilhos decorativos -->
+  <circle cx="200" cy="5" r="2" fill="#C084FC" opacity="0.6">
+    <animate attributeName="opacity" values="0;0.8;0" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="200;220;200" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="5" r="2" fill="#A855F7" opacity="0.6">
+    <animate attributeName="opacity" values="0;0.8;0" dur="2.5s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="cx" values="600;620;600" dur="2.5s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
+  <circle cx="1000" cy="5" r="2" fill="#8B5CF6" opacity="0.6">
+    <animate attributeName="opacity" values="0;0.8;0" dur="3s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="cx" values="1000;1020;1000" dur="3s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+</svg>
