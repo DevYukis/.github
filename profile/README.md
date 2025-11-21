@@ -1,14 +1,24 @@
-﻿<div align="center">
+﻿<!-- SESSION_START: profile_view_2025 -->
+<!-- SESSION_ID: devyukis_main_profile -->
+<!-- VERSION: 3.2.1 -->
+<!-- LAST_UPDATED: 2025-11-21 -->
+<!-- RENDER_MODE: github_profile -->
+<!-- THEME: purple_neon -->
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
 <!-- Logo personalizado -->
+<!-- COMPONENT: header_logo -->
 <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/devyukis-logo.svg" alt="DevYukis" />
 
 <br><br>
 
+<!-- COMPONENT: visitor_badge -->
+<!-- TRACKING: enabled -->
 <!-- Badge de visitantes simples -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DevYukis.github&left_color=grey&right_color=a855f7&left_text=visits" alt="Visitors" />
 
@@ -23,8 +33,12 @@
 
 <br>
 
+<!-- COMPONENT: animated_header -->
+<!-- ANIMATION: typing_effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&letterSpacing=1.5px&pause=1000&color=A855F7&center=true&vCenter=true&width=1080&height=120&lines=Hi!+I'm+Nikolas+Ribeiro" alt="Typing SVG" />
 
+<!-- SECTION: introduction -->
+<!-- CHARACTER_COUNT: 156 -->
 Hi there! I'm **DevYukis** — a full-stack developer passionate about building scalable applications and innovative solutions. This is my personal GitHub profile where I share open-source projects, technical resources, and hands-on experiences in web development, cloud computing, and AI.
 
 <br>
@@ -33,8 +47,12 @@ Hi there! I'm **DevYukis** — a full-stack developer passionate about building 
 
 <br>
 
+<!-- SECTION_START: about_me -->
+<!-- PRIORITY: high -->
+<!-- EMOJI_SET: purple_collection -->
 ## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="30" alt="Users" /> About Me
 
+<!-- SUBSECTION: education_career -->
 <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-graduation.svg" width="20" alt="Graduation" /> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Full-stack developer & software architect — currently exploring cloud-native architectures, microservices, and AI integration.
 
 <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-bulb.svg" width="20" alt="Bulb" /> <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="20" alt="Sparkles" /> I love building beautiful, practical tools — from small utilities to full-scale enterprise systems.
@@ -47,12 +65,18 @@ Hi there! I'm **DevYukis** — a full-stack developer passionate about building 
 
 <br>
 
+<!-- SECTION_START: core_skills -->
+<!-- SKILL_COUNT: 50+ -->
+<!-- LAYOUT: grid_centered -->
 ## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-code.svg" width="28" alt="Code" /> My Core Skills
 
 <div align="center">
 
+<!-- SKILL_CATEGORY: programming_languages -->
+<!-- ITEMS: 8 -->
 ###  <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="20" alt="Rocket" /> Programming Languages
 
+<!-- SKILL_ITEM: python -->
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript" /></a>
@@ -125,8 +149,13 @@ Hi there! I'm **DevYukis** — a full-stack developer passionate about building 
 
 <br>
 
+<!-- SECTION_START: featured_projects -->
+<!-- PROJECT_COUNT: 4 -->
+<!-- DISPLAY_MODE: showcase -->
 ## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="28" alt="Star" /> Featured Projects
 
+<!-- PROJECT_ITEM: 1 -->
+<!-- STATUS: active -->
 **Smart Web Platform** — A modern full-stack platform for enterprise applications  
 *Technologies:* React, Next.js, Node.js, PostgreSQL, Azure
 
@@ -145,6 +174,9 @@ Hi there! I'm **DevYukis** — a full-stack developer passionate about building 
 
 <br>
 
+<!-- SECTION_START: statistics -->
+<!-- DATA_SOURCE: github_api -->
+<!-- AUTO_UPDATE: enabled -->
 ## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="28" alt="Users" /> Organization Statistics
 
 <div align="center">
@@ -162,8 +194,12 @@ Hi there! I'm **DevYukis** — a full-stack developer passionate about building 
 
 <br>
 
+<!-- SUBSECTION: activity_graph -->
+<!-- GRAPH_TYPE: contribution_timeline -->
 ### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-fire.svg" width="22" alt="Fire" /> Activity & Contributions
 
+<!-- WIDGET: activity_graph -->
+<!-- REFRESH_RATE: daily -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevYukis&custom_title=DevYukis%20Activity%20Graph&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&area_color=a855f7&hide_border=true" alt="Activity Graph" width="100%" />
 
 <br>
@@ -194,8 +230,12 @@ Hi there! I'm **DevYukis** — a full-stack developer passionate about building 
 
 <br>
 
+<!-- SECTION_START: contact -->
+<!-- CONTACT_METHODS: 3 -->
+<!-- PRIORITY: high -->
 ## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-heart.svg" width="28" alt="Heart" /> Connect with Me
 
+<!-- CONTACT_TYPE: email -->
 <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-lightning.svg" width="16" alt="Lightning" /> Email: `nickschunck17@gmail.com`
 
 <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="16" alt="Target" /> Website: [architect.guarasal.com](https://architect.guarasal.com/)
@@ -233,6 +273,9 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <div align="center">
 
+<!-- SECTION_START: what_we_build -->
+<!-- LAYOUT: three_column_grid -->
+<!-- CATEGORIES: 3 -->
 ## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-rocket.svg" width="26" alt="Rocket" /> What We Build
 
 </div>
@@ -379,6 +422,16 @@ Productivity tools and utilities for the developer community
 </td>
 </tr>
 </table>
+
+</div>
+
+<br>
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="22" alt="Target" /> Most Used Languages
+
+<!-- WIDGET: language_stats -->
+<!-- DATA_SOURCE: github_repos -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevYukis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="100%" />
 
 </div>
 
@@ -690,9 +743,13 @@ Workshops and technical mentoring
 </div>
 
 
+<!-- SECTION_START: trophies -->
+<!-- WIDGET: github_trophies -->
+<!-- THEME: dracula -->
 ## GitHub Trophies
 
 <div align="center">
+  <!-- EXTERNAL_API: trophy.vercel.app -->
   <img src="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="trophies" />
 </div>
 
@@ -772,6 +829,9 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <br>
 
+<!-- SECTION_START: artwork_gallery -->
+<!-- STATUS: coming_soon -->
+<!-- FUTURE_INTEGRATION: steam_api -->
 ## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-palette.svg" width="28" alt="Palette" /> Artwork Gallery
 
 <div align="center">
@@ -807,6 +867,10 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <br>
 
+<!-- SECTION_START: favorite_games -->
+<!-- GAME_COUNT: 4 -->
+<!-- STATUS: placeholder -->
+<!-- INTEGRATION: steam_profile -->
 ## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-gamepad.svg" width="28" alt="Gamepad" /> Favorite Games
 
 <div align="center">
