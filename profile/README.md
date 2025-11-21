@@ -751,44 +751,20 @@ Workshops and technical mentoring
 
 
 <!-- SECTION_START: trophies -->
-<!-- WIDGET: github_achievements -->
+<!-- WIDGET: github_trophies -->
 <!-- THEME: tokyonight -->
 <!-- FALLBACK: enabled -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="28" alt="Star" /> GitHub Achievements
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="28" alt="Star" /> GitHub Trophies
 
-<!-- MULTIPLE_SOURCES: trophy + metrics -->
-<!-- ERROR_HANDLING: multiple_fallbacks -->
-
-<!-- Primary: GitHub Profile Trophy -->
+<!-- EXTERNAL_API: trophy.vercel.app -->
+<!-- ERROR_HANDLING: fallback_message -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=2&column=4">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Trophies" onerror="this.style.display='none'" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Trophies" onerror="this.onerror=null; this.src='https://via.placeholder.com/800x200/0d1117/a855f7?text=Trophies+Loading...'; this.alt='Trophies temporarily unavailable';" />
 </picture>
-
-<br><br>
-
-<!-- Fallback: GitHub Metrics -->
-<img src="https://metrics.lecoq.io/DevYukis?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FSao_Paulo&config.theme=dark" alt="GitHub Achievements" onerror="this.style.display='none'" />
-
-<br><br>
-
-<!-- Additional Stats -->
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/dynamic/json?color=a855f7&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDevYukis&style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/dynamic/json?color=a855f7&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDevYukis&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/dynamic/json?color=a855f7&label=Following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDevYukis&style=for-the-badge&logo=github&logoColor=white" alt="Following" />
-</td>
-</tr>
-</table>
 
 </div>
 
