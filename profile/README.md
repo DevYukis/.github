@@ -752,16 +752,31 @@ Workshops and technical mentoring
 
 <!-- SECTION_START: trophies -->
 <!-- WIDGET: github_trophies -->
-<!-- THEME: dracula -->
-## GitHub Trophies
-
+<!-- THEME: tokyonight -->
+<!-- FALLBACK: enabled -->
 <div align="center">
-  <!-- EXTERNAL_API: trophy.vercel.app -->
-  <img src="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="trophies" />
+
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-star.svg" width="28" alt="Star" /> GitHub Trophies
+
+<!-- EXTERNAL_API: trophy.vercel.app -->
+<!-- ERROR_HANDLING: fallback_message -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=2&column=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Trophies" onerror="this.onerror=null; this.src='https://via.placeholder.com/800x200/0d1117/a855f7?text=Trophies+Loading...'; this.alt='Trophies temporarily unavailable';" />
+</picture>
+
 </div>
 
+<br>
 
-## Connect With Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-users.svg" width="28" alt="Users" /> Connect With Me
 
 <div align="center">
   <a href="https://www.instagram.com/dev.nick_" target="_blank">
