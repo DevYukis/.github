@@ -761,9 +761,15 @@ Workshops and technical mentoring
 <!-- EXTERNAL_API: trophy.vercel.app -->
 <!-- ERROR_HANDLING: fallback_message -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=2&column=4">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Trophies" onerror="this.onerror=null; this.src='https://via.placeholder.com/800x200/0d1117/a855f7?text=Trophies+Loading...'; this.alt='Trophies temporarily unavailable';" />
+  <source 
+    srcset="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=tokyonight&no-frame=true&margin-w=4&row=2&column=4&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=flat&no-frame=true&margin-w=4&row=2&column=4"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-profile-trophy.vercel.app/?username=DevYukis&theme=flat&no-frame=true&margin-w=4&row=2&column=4" />
 </picture>
 
 </div>
