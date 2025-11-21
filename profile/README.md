@@ -244,10 +244,6 @@ Hi there! I'm **DevYukis** � a full-stack developer passionate about building 
 
 <br>
 
-<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-line-divider.svg" width="100%">
-
-<br>
-
 > <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" /> *"I believe that knowledge should be shared � let's learn and grow together."* � DevYukis <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-sparkles.svg" width="16" alt="Sparkles" />
 
 <br>
@@ -263,11 +259,6 @@ Hi there! I'm **DevYukis** � a full-stack developer passionate about building 
 When I'm not coding, you'll find me exploring new technologies, contributing to open source, or brewing the perfect cup of coffee.
 
 </div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/purple-line-divider.svg" width="100%">
 
 <br>
 
