@@ -190,13 +190,6 @@ Hi there! I'm **DevYukis** — a full-stack developer passionate about building 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevYukis&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
 </td>
 </tr>
-<tr>
-<td width="50%" align="center" colspan="2">
-  <!-- WIDGET: language_stats -->
-  <!-- DATA_SOURCE: github_repos -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevYukis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</td>
-</tr>
 </table>
 
 <br>
@@ -426,6 +419,23 @@ Productivity tools and utilities for the developer community
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=gitlab" width="50" height="50" alt="GitLab" />
 <br>GitLab
+</td>
+</tr>
+</table>
+
+<br>
+
+### <img src="https://raw.githubusercontent.com/DevYukis/.github/main/assets/emojis/purple-target.svg" width="22" alt="Target" /> Language Statistics
+
+<!-- WIDGET: language_stats -->
+<!-- DATA_SOURCE: github_repos -->
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevYukis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Most Used Languages" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevYukis&layout=pie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" alt="Language Distribution" />
 </td>
 </tr>
 </table>
