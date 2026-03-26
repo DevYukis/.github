@@ -35,7 +35,7 @@
 
 <!-- COMPONENT: animated_header -->
 <!-- ANIMATION: typing_effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&letterSpacing=1.5px&pause=1000&color=A855F7&center=true&vCenter=true&width=1080&height=120&lines=Hi!+I'm+Nikolas+Ribeiro" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&letterSpacing=1.5px&pause=1000&color=A855F7&center=true&vCenter=true&width=1080&height=120&lines=Hi!+I'm+DevYuki!" alt="Typing SVG" />
 
 <!-- SECTION: introduction -->
 <!-- CHARACTER_COUNT: 156 -->
