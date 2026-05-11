@@ -291,7 +291,7 @@ cd YOUR_USERNAME
 
 Edit `README.md` and replace:
 - `DevYukis` → your username
-- `Nikolas Ribeiro` → your name
+- `DevYuki` → your name
 - Social media links
 - Skills and technologies
 
